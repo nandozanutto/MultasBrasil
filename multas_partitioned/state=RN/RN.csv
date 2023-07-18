@@ -1,0 +1,43 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Sr. Luiz Miguel da Cruz;BDS-6R00;90;Homem;Parque Sophie Gonçalves, 59;FERNANDO PEDROZA;RN;2020-04-01;RN
+Felipe Cardoso;GAY-3Z89;64;Homem;Fazenda Silveira, 678;JUNDIÁ;RN;2021-03-05;RN
+Sophia Ferreira;UVI-0S75;86;Não binário;Loteamento de Teixeira, 222;SENADOR GEORGINO AVELINO;RN;2022-08-03;RN
+Alana da Paz;ABP-3X45;88;Mulher;Esplanada de da Cruz;TOUROS;RN;2021-07-04;RN
+Isadora Aragão;LZY-1A96;24;Não binário;Condomínio Souza, 377;DOUTOR SEVERIANO;RN;2020-08-10;RN
+Sr. Enrico Castro;TSD-4G90;30;Homem;Fazenda de Souza, 532;SÃO RAFAEL;RN;2023-04-28;RN
+Diogo Teixeira;NZR-7M45;90;Homem;Rodovia de Azevedo, 9;SÃO FERNANDO;RN;2020-05-17;RN
+Dra. Ana Laura Porto;IEY-2I44;10;Mulher;Rua da Cunha, 336;CARNAÚBA DOS DANTAS;RN;2022-07-02;RN
+André Sales;AQA-7S38;43;Homem;Via Francisco da Costa, 4;PEDRO VELHO;RN;2021-10-01;RN
+Catarina Rezende;WJX-6E32;36;Mulher;Passarela Lorena Freitas, 282;MAJOR SALES;RN;2022-05-02;RN
+Sr. Benício Mendes;VHP-8M22;23;Homem;Sítio Renan Martins, 6;CARNAÚBA DOS DANTAS;RN;2022-06-06;RN
+Sr. Heitor Pinto;NYS-7E74;100;Homem;Aeroporto Nogueira, 73;BOM JESUS;RN;2022-03-19;RN
+Eduarda Barbosa;XUT-1D96;15;Mulher;Área de Silva, 22;SANTO ANTÔNIO;RN;2022-04-28;RN
+Emanuella Santos;ECF-1T96;16;Não binário;Vila Pedro Henrique Barbosa, 315;BARCELONA;RN;2022-07-03;RN
+Eduardo da Mata;SKE-2A00;93;Homem;Favela Luiz Henrique Pinto, 831;PARELHAS;RN;2021-02-01;RN
+Camila Lima;WQV-0R01;37;Mulher;Residencial da Mota, 60;MACAU;RN;2023-03-16;RN
+Laís Silveira;MBO-0P60;84;Não binário;Trecho Costa, 141;SÃO MIGUEL;RN;2021-06-16;RN
+Lavínia Costa;UEQ-7N70;83;Não binário;Lago Clara Caldeira;CAMPO REDONDO;RN;2021-06-15;RN
+Luiz Henrique Aragão;ZFB-7N65;3;Homem;Estrada de Costa, 407;RODOLFO FERNANDES;RN;2020-07-06;RN
+Ana Julia Mendes;MHL-2L05;58;Mulher;Viela de Sales, 94;TABOLEIRO GRANDE;RN;2020-12-29;RN
+Maria Cecília Silva;HHT-5X02;62;Não binário;Área Emanuel da Mata, 847;CERRO CORÁ;RN;2022-12-29;RN
+Ana Beatriz Cardoso;QVA-1L16;10;Mulher;Distrito Melo, 46;PARELHAS;RN;2021-12-04;RN
+André Aragão;LCQ-6T42;76;Homem;Parque Isis Teixeira, 2;JAÇANÃ;RN;2022-11-08;RN
+Ana Laura Fernandes;CGM-9E86;54;Mulher;Trevo da Mota, 600;IELMO MARINHO;RN;2022-02-09;RN
+Nina Ramos;TEJ-1E15;58;Não binário;Parque Ramos;CAIÇARA DO RIO DO VENTO;RN;2022-05-14;RN
+Vitor Gabriel Silveira;ENO-6H44;76;Homem;Jardim Davi Lucca Barbosa, 8;CAMPO REDONDO;RN;2023-02-22;RN
+Srta. Maria Cecília Lima;KPZ-4B62;29;Mulher;Quadra de Nunes, 780;ENCANTO;RN;2020-10-12;RN
+Henrique Araújo;CIM-2C00;57;Homem;Passarela Caldeira, 78;SÃO JOÃO DO SABUGI;RN;2021-12-04;RN
+Clarice Oliveira;TSY-0B95;93;Mulher;Praça Arthur Gomes, 25;CANGUARETAMA;RN;2020-01-19;RN
+Lucas Gabriel Correia;AGT-3U02;11;Homem;Via de Cardoso, 82;SÃO FRANCISCO DO OESTE;RN;2023-02-04;RN
+Maitê Moura;XWI-3C18;30;Mulher;Esplanada de da Cunha, 73;IELMO MARINHO;RN;2020-10-01;RN
+Isabelly da Rocha;BXM-4E61;67;Mulher;Núcleo Freitas, 95;TIBAU DO SUL;RN;2020-05-28;RN
+Fernanda Araújo;EHV-4F05;94;Não binário;Viaduto Lopes, 5;SÃO BENTO DO TRAIRÍ;RN;2022-08-23;RN
+Diogo Pires;ZPK-8Z23;12;Homem;Passarela de Souza, 13;CURRAIS NOVOS;RN;2021-11-02;RN
+Alice Melo;IFT-5Z56;3;Mulher;Vereda de Dias, 19;ANGICOS;RN;2020-11-07;RN
+Nicole Teixeira;MSV-2Z66;51;Não binário;Praça Gomes, 834;SÃO BENTO DO NORTE;RN;2020-01-22;RN
+Sra. Alícia Souza;WUG-2G35;19;Mulher;Sítio Nogueira, 825;MACAU;RN;2020-07-20;RN
+Vitória Carvalho;HSR-7G00;33;Não binário;Lago Vicente Monteiro, 8;SÃO FERNANDO;RN;2021-03-12;RN
+Heloísa Souza;IFR-6O86;94;Não binário;Residencial Otávio Caldeira, 15;SÍTIO NOVO;RN;2022-11-14;RN
+Evelyn Fernandes;SZS-1Y05;7;Mulher;Ladeira Lucca Dias, 870;SERRA DO MEL;RN;2023-01-13;RN
+Igor Alves;EJZ-6I23;42;Homem;Favela Renan Costela, 139;PEDRO AVELINO;RN;2020-03-27;RN
+Emanuella da Luz;XTC-9H92;19;Mulher;Passarela de Rocha, 88;ÁGUA NOVA;RN;2021-10-08;RN

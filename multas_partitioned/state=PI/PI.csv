@@ -1,0 +1,39 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Fernando Campos;FTG-4P55;22;Homem;Residencial Jesus, 56;SÃO JOSÉ DO DIVINO;PI;2022-09-07;PI
+Antônio Souza;OHC-0R68;79;Homem;Ladeira de Sales, 450;JUREMA;PI;2022-12-27;PI
+Gabrielly Barros;JIL-6W18;68;Não binário;Sítio Arthur Barros, 891;JATOBÁ DO PIAUÍ;PI;2021-01-06;PI
+Fernanda Gonçalves;IXI-8V17;85;Mulher;Quadra de Cavalcanti, 56;MONSENHOR GIL;PI;2020-06-20;PI
+Ian Sales;ZYM-2P75;6;Homem;Recanto Pereira, 224;JOAQUIM PIRES;PI;2022-01-22;PI
+Daniel Almeida;JHA-8D23;11;Homem;Pátio de Monteiro, 97;PORTO;PI;2023-03-29;PI
+Levi da Cruz;DJA-5Y22;55;Homem;Praia de Cunha, 922;SÃO RAIMUNDO NONATO;PI;2022-05-16;PI
+Emilly Almeida;HTL-0S77;16;Não binário;Viela Almeida, 6;SANTANA DO PIAUÍ;PI;2023-02-11;PI
+Juliana Silva;GXE-9A24;50;Não binário;Conjunto de da Cruz, 43;LANDRI SALES;PI;2023-03-22;PI
+Joana Barbosa;XRW-0M49;98;Mulher;Parque Leonardo da Rocha, 2;DOM INOCÊNCIO;PI;2023-04-09;PI
+Júlia Cardoso;DKU-1Z74;72;Mulher;Vereda Carlos Eduardo da Mata, 23;FLORES DO PIAUÍ;PI;2022-08-29;PI
+Srta. Alana Araújo;ABF-3K41;95;Não binário;Pátio Ferreira, 930;ITAINÓPOLIS;PI;2022-04-15;PI
+Eloah da Luz;DIO-3G86;28;Não binário;Residencial Maria Vitória da Mata, 423;JACOBINA DO PIAUÍ;PI;2020-05-29;PI
+João Felipe Barros;BVG-4U82;85;Homem;Trevo de Almeida, 29;PIRIPIRI;PI;2023-05-28;PI
+Yasmin Barbosa;POI-4M31;42;Mulher;Esplanada de Pinto, 2;PAES LANDIM;PI;2022-08-21;PI
+Gabrielly Lima;OXE-2Y67;58;Não binário;Jardim Helena Porto, 61;QUEIMADA NOVA;PI;2023-04-04;PI
+Matheus da Rosa;JCS-1Q24;35;Homem;Núcleo de Oliveira, 615;NOSSA SENHORA DE NAZARÉ;PI;2021-07-06;PI
+Dra. Caroline Monteiro;APN-7E20;88;Não binário;Fazenda de da Mota, 31;BELA VISTA DO PIAUÍ;PI;2021-10-29;PI
+Luiz Miguel Moreira;YND-8X54;72;Homem;Rodovia Costa, 28;DOMINGOS MOURÃO;PI;2020-01-12;PI
+Srta. Isabelly da Mota;VEF-1Y26;63;Mulher;Loteamento João Lucas da Conceição;GUARIBAS;PI;2023-05-15;PI
+Isis Azevedo;RRQ-2P35;51;Mulher;Trecho Isabelly Carvalho, 10;GUADALUPE;PI;2020-07-04;PI
+Maria Nascimento;LZK-3Y94;17;Não binário;Favela de Barros;COLÔNIA DO PIAUÍ;PI;2021-07-25;PI
+Srta. Isabella Nogueira;MGJ-3W25;48;Não binário;Esplanada de da Conceição, 857;BURITI DOS LOPES;PI;2021-05-28;PI
+Maria Eduarda da Luz;VWF-6S48;23;Mulher;Estação Ramos, 62;CANAVIEIRA;PI;2021-10-10;PI
+Stella Carvalho;GXO-5G77;36;Mulher;Condomínio Novaes, 71;CORONEL JOSÉ DIAS;PI;2020-08-30;PI
+Olivia Lima;RWT-2Q13;17;Não binário;Distrito de Cardoso;LUZILÂNDIA;PI;2020-09-25;PI
+Maitê da Rocha;GXY-2M67;66;Não binário;Passarela de da Cunha, 92;IPIRANGA DO PIAUÍ;PI;2020-12-04;PI
+João Gabriel Sales;CBV-3H43;67;Homem;Distrito de Nogueira, 796;MATIAS OLÍMPIO;PI;2021-02-19;PI
+Srta. Laura da Rocha;FIM-9E00;54;Não binário;Favela da Rosa, 19;AGRICOLÂNDIA;PI;2021-07-03;PI
+Levi Silva;VIW-0G38;99;Homem;Esplanada Ribeiro, 11;BARRO DURO;PI;2023-01-13;PI
+Maria Eduarda Ramos;UNE-2T06;84;Mulher;Área Costela, 203;REDENÇÃO DO GURGUÉIA;PI;2022-07-21;PI
+Isabel da Rosa;QCW-4Q83;87;Mulher;Travessa Leandro Duarte, 62;SÃO GONÇALO DO GURGUÉIA;PI;2020-10-16;PI
+Luiz Felipe Novaes;GWE-0R45;57;Homem;Jardim Fernandes, 858;FLORESTA DO PIAUÍ;PI;2022-11-13;PI
+Luiz Otávio Lopes;OFD-5X85;88;Homem;Colônia de da Conceição, 912;LAGOA DO PIAUÍ;PI;2020-11-25;PI
+Isabelly Cardoso;HBC-1Y88;100;Mulher;Área de Araújo, 52;CAMPO MAIOR;PI;2023-06-09;PI
+Amanda Teixeira;QVI-6O58;21;Mulher;Sítio Lima, 17;JARDIM DO MULATO;PI;2020-10-19;PI
+Carolina Teixeira;LWH-4O59;16;Mulher;Morro de Costela, 22;CURIMATÁ;PI;2020-07-17;PI
+Lorena Moura;PIC-2L70;12;Não binário;Estação das Neves, 54;ANÍSIO DE ABREU;PI;2022-04-04;PI

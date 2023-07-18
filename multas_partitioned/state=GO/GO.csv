@@ -1,0 +1,42 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Rafael Vieira;QOF-7E40;11;Homem;Ladeira de Alves, 520;GOIANIRA;GO;2021-11-12;GO
+Rafaela da Paz;DDF-2B59;92;Não binário;Trecho Farias, 26;LAGOA SANTA;GO;2020-05-05;GO
+Maria Alice Cavalcanti;OWJ-9Z81;36;Mulher;Viaduto de Barbosa, 629;VILA PROPÍCIO;GO;2020-01-02;GO
+Dr. Nicolas Moura;VBB-0B70;54;Homem;Pátio de Nascimento, 492;NOVA CRIXÁS;GO;2021-02-25;GO
+João Vitor da Rocha;ALW-5C63;26;Homem;Vale Helena da Rocha, 21;DAVINÓPOLIS;GO;2020-03-29;GO
+Luiza Nogueira;NSU-9U78;62;Mulher;Parque Mariane Ribeiro, 10;CAMPOS VERDES;GO;2021-07-04;GO
+Luiz Fernando Azevedo;SMT-5G11;51;Homem;Trecho de Ferreira, 5;ISRAELÂNDIA;GO;2022-01-22;GO
+Dr. João Santos;MVD-0H77;3;Homem;Recanto Mariane Peixoto, 7;FAINA;GO;2023-03-24;GO
+Murilo Martins;GYC-5R24;84;Homem;Travessa de Fernandes;SANTA TEREZINHA DE GOIÁS;GO;2021-07-19;GO
+Lívia Moura;LJE-8Z53;10;Não binário;Trevo de Novaes, 21;NOVA IGUAÇU DE GOIÁS;GO;2020-01-13;GO
+Ana Sophia Sales;WQL-8X77;31;Mulher;Vereda de Sales;MAURILÂNDIA;GO;2022-07-11;GO
+Nathan Cardoso;YXS-5A88;79;Homem;Jardim Barbosa, 46;COCALZINHO DE GOIÁS;GO;2021-11-30;GO
+Sofia Nascimento;HSQ-0V81;57;Não binário;Sítio Silveira, 8;VILA BOA;GO;2022-02-04;GO
+Sr. Yuri Melo;CUL-9W21;96;Homem;Jardim Sophia da Conceição;GOIÁS;GO;2022-03-05;GO
+Davi Lucca da Paz;EEY-8R09;95;Homem;Condomínio Pinto, 69;ÁGUAS LINDAS DE GOIÁS;GO;2023-05-03;GO
+Bianca Fernandes;OAO-0K49;14;Mulher;Setor Teixeira, 28;CRISTIANÓPOLIS;GO;2023-03-06;GO
+Giovanna Gonçalves;PGK-3W95;16;Não binário;Residencial Vicente Aragão, 4;TURVÂNIA;GO;2020-06-28;GO
+Vicente Freitas;IUG-2C70;24;Homem;Avenida Campos, 63;GOIÁS;GO;2023-03-05;GO
+Heloísa Pereira;EHZ-9N85;23;Não binário;Campo Sofia Moura, 26;INHUMAS;GO;2020-10-30;GO
+Sophie Peixoto;DUW-0T85;66;Mulher;Morro Santos;MORRO AGUDO DE GOIÁS;GO;2022-01-19;GO
+Raul Dias;ZTT-6N29;8;Homem;Colônia de Pinto, 96;PLANALTINA;GO;2020-11-07;GO
+Maria Luiza Peixoto;OJO-8M93;14;Não binário;Sítio Júlia Fernandes, 5;CACHOEIRA DE GOIÁS;GO;2020-11-01;GO
+Srta. Alana Silva;HDV-5S82;59;Não binário;Travessa Maria Sophia Moraes, 453;BRAZABRANTES;GO;2020-10-26;GO
+Camila Ribeiro;QPA-7E30;43;Mulher;Condomínio de Viana, 902;GOIANDIRA;GO;2020-11-23;GO
+Rebeca Lima;HVG-0T99;82;Mulher;Distrito da Rocha, 9;VILA BOA;GO;2022-07-12;GO
+Fernanda Dias;QZN-8Z18;76;Não binário;Viela Lívia Fogaça, 43;LAGOA SANTA;GO;2020-08-11;GO
+Maria Alice Rocha;PWD-5D39;95;Não binário;Parque Teixeira, 84;LUZIÂNIA;GO;2022-10-15;GO
+Guilherme Cardoso;QFF-5I11;65;Homem;Avenida Ana Sophia Nogueira;ARENÓPOLIS;GO;2022-02-04;GO
+Juliana da Rosa;CNW-2D89;70;Não binário;Rodovia Santos, 83;SÃO JOÃO DA PARAÚNA;GO;2021-04-06;GO
+Sra. Beatriz da Costa;RFT-9C60;93;Não binário;Favela de Ramos;CASTELÂNDIA;GO;2020-02-23;GO
+Ana Clara Silva;KPD-4I74;97;Não binário;Trevo Cauã Silva, 9;CRIXÁS;GO;2022-09-30;GO
+Danilo Castro;JMT-4Q03;59;Homem;Residencial Costela, 47;CRISTALINA;GO;2022-12-20;GO
+Sr. Juan Ribeiro;YOA-9Z92;15;Homem;Viaduto de Farias;JATAÍ;GO;2021-06-17;GO
+Larissa Campos;WLQ-0C32;83;Mulher;Morro de Pinto, 7;PETROLINA DE GOIÁS;GO;2021-02-07;GO
+Kamilly Dias;NPN-4G15;23;Mulher;Estação de Moreira, 1;MOIPORÁ;GO;2023-04-12;GO
+Eduardo Melo;UUU-1I78;57;Homem;Favela Dias, 4;BARRO ALTO;GO;2022-03-06;GO
+Valentina Azevedo;VXF-1L95;31;Mulher;Campo Luna Almeida, 6;SÍTIO D'ABADIA;GO;2023-06-15;GO
+Diogo Viana;JLG-6Z20;26;Homem;Condomínio Campos, 77;SANTA TEREZINHA DE GOIÁS;GO;2022-01-19;GO
+Ana Vitória Teixeira;VYF-6M59;69;Mulher;Esplanada Ana Beatriz da Costa, 326;ISRAELÂNDIA;GO;2020-03-16;GO
+Daniela Martins;JIF-9C26;32;Mulher;Ladeira Luiz Otávio Sales, 3;HIDROLÂNDIA;GO;2020-06-19;GO
+Natália da Cruz;CUU-3X84;27;Não binário;Feira de Silveira, 2;TROMBAS;GO;2022-12-29;GO

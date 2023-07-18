@@ -1,0 +1,39 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Lívia da Rocha;BGQ-9Q74;89;Mulher;Rodovia de da Mata, 7;GUAÇUÍ;ES;2020-04-29;ES
+Lucas Jesus;SLJ-0D84;95;Homem;Ladeira de da Cunha, 1;SANTA TERESA;ES;2020-08-17;ES
+Mirella Almeida;BPV-8L58;8;Não binário;Campo da Conceição, 27;MIMOSO DO SUL;ES;2021-03-16;ES
+Sra. Alana Moraes;ADM-2N79;11;Mulher;Travessa Lima, 5;VARGEM ALTA;ES;2020-08-02;ES
+Maitê Cardoso;FJR-8J22;77;Mulher;Feira Renan Jesus, 146;COLATINA;ES;2022-12-06;ES
+Dra. Evelyn Correia;OCP-7E68;79;Mulher;Residencial da Luz, 14;ALEGRE;ES;2021-02-16;ES
+Nicole Alves;EJO-0Z04;37;Não binário;Chácara Milena Araújo, 9;FUNDÃO;ES;2023-06-17;ES
+Ana Laura Novaes;JVM-9K89;39;Não binário;Quadra de Monteiro;IÚNA;ES;2020-07-28;ES
+Bianca Duarte;WFB-9R16;64;Mulher;Vila Davi Luiz Ribeiro, 484;AFONSO CLÁUDIO;ES;2021-07-08;ES
+Ana Júlia Lopes;VMA-1Q75;48;Não binário;Setor Enzo da Mata, 722;PEDRO CANÁRIO;ES;2020-06-09;ES
+Laura Rocha;ISM-5T65;60;Não binário;Parque de da Mota, 4;VILA VALÉRIO;ES;2021-03-14;ES
+Evelyn Sales;IXY-8O55;17;Mulher;Lago Alice Costela, 10;VARGEM ALTA;ES;2023-04-29;ES
+Davi Lucca Lima;SEJ-6X56;3;Homem;Largo Rezende, 1;ITARANA;ES;2023-02-05;ES
+Nicole Dias;GXK-4U73;20;Não binário;Rua João Pedro Cavalcanti, 724;SÃO MATEUS;ES;2022-08-31;ES
+Nicolas Costela;ERI-8F94;21;Homem;Avenida de Fernandes;FUNDÃO;ES;2021-04-25;ES
+Sr. Gustavo Santos;LYT-0T07;41;Homem;Trecho de Cavalcanti;CASTELO;ES;2022-05-19;ES
+Júlia da Conceição;OXP-1Y42;31;Não binário;Morro Rafaela Fogaça;SANTA TERESA;ES;2023-04-05;ES
+Ana Lívia Barbosa;FYY-0I40;35;Não binário;Conjunto Vieira, 273;ITAGUAÇU;ES;2020-06-18;ES
+Maria Cecília Moraes;AOM-8H69;77;Não binário;Viaduto de da Costa, 79;MONTANHA;ES;2023-05-03;ES
+Miguel Silva;HYI-1A33;69;Homem;Núcleo Nunes, 625;BARRA DE SÃO FRANCISCO;ES;2020-03-13;ES
+Letícia Pereira;ZZJ-0S45;39;Não binário;Pátio Sales, 92;IBIRAÇU;ES;2020-09-28;ES
+Isis Sales;ZQI-1F63;84;Mulher;Setor Teixeira, 98;VILA VELHA;ES;2020-07-31;ES
+Manuela Araújo;QJB-2K51;53;Não binário;Quadra João Miguel Fogaça, 921;BREJETUBA;ES;2021-05-09;ES
+Daniel Fernandes;VRV-6P44;76;Homem;Parque Moura, 62;VILA VALÉRIO;ES;2023-05-19;ES
+Luigi da Rocha;VFQ-1D45;42;Homem;Viaduto Silva;SÃO MATEUS;ES;2022-10-08;ES
+Sr. Nicolas Moraes;GQT-3I30;70;Homem;Distrito Pires, 15;MARECHAL FLORIANO;ES;2022-02-03;ES
+Enzo Gabriel Azevedo;RGT-5W21;91;Homem;Conjunto de da Rocha, 79;SÃO DOMINGOS DO NORTE;ES;2021-08-11;ES
+Ana Clara Gonçalves;RXY-9I59;99;Mulher;Recanto de Aragão, 20;PONTO BELO;ES;2020-05-04;ES
+Bernardo Carvalho;USD-2G18;10;Homem;Alameda de Barbosa, 83;IRUPI;ES;2023-01-18;ES
+Erick Rocha;WDM-3Q46;85;Homem;Recanto de da Costa, 47;ITAGUAÇU;ES;2023-05-24;ES
+Julia da Cruz;ZSP-9E24;53;Mulher;Lago Dias, 74;ICONHA;ES;2020-01-25;ES
+Stella da Mata;WWL-1H49;22;Mulher;Vila da Conceição, 92;SANTA TERESA;ES;2021-10-11;ES
+Beatriz Rocha;MOF-0U46;63;Não binário;Sítio Danilo da Costa, 6;NOVA VENÉCIA;ES;2020-01-12;ES
+Catarina Pinto;NBY-4S83;76;Mulher;Parque Peixoto;BARRA DE SÃO FRANCISCO;ES;2020-11-20;ES
+Sr. João Lucas Castro;OFI-8P06;31;Homem;Núcleo de Moraes, 2;ANCHIETA;ES;2021-05-26;ES
+Stephany Sales;EZU-4M04;68;Não binário;Rodovia de Melo, 734;LARANJA DA TERRA;ES;2022-12-28;ES
+Rafaela Carvalho;YXG-6W73;63;Mulher;Rodovia de Cardoso, 9;BARRA DE SÃO FRANCISCO;ES;2020-06-18;ES
+Maria Cecília Fogaça;HZY-4V36;97;Não binário;Estação de Moura, 9;MANTENÓPOLIS;ES;2023-03-18;ES

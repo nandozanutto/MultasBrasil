@@ -1,0 +1,47 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+João Pedro Moraes;EGM-4Z50;44;Homem;Jardim Castro, 37;PESCADOR;MG;2022-05-31;MG
+Thales da Conceição;VOI-9F34;63;Homem;Vale de Aragão, 61;ITAMARATI DE MINAS;MG;2023-04-29;MG
+Srta. Lívia Rodrigues;UCK-5T58;17;Mulher;Vereda Benício Cardoso;CONCEIÇÃO DOS OUROS;MG;2020-12-07;MG
+Raquel Pinto;IVF-2E25;18;Mulher;Residencial Rafaela Lopes, 27;ITAMARATI DE MINAS;MG;2020-02-04;MG
+Elisa da Mata;ZUZ-2M65;3;Mulher;Via de Nascimento, 89;POTÉ;MG;2022-12-21;MG
+Amanda Nascimento;NYN-3O43;10;Mulher;Trevo Otávio Cunha, 428;VARJÃO DE MINAS;MG;2022-02-28;MG
+Giovanna Correia;GGC-3K52;81;Não binário;Vila Lima, 2;SANTANA DO GARAMBÉU;MG;2023-05-10;MG
+Dr. Davi Luiz Moreira;KSB-6Q19;33;Homem;Vale Ana Luiza Moreira, 10;MEDINA;MG;2022-02-07;MG
+Esther Oliveira;GXE-0I20;5;Não binário;Rodovia Emanuella da Cruz, 60;CAMPANÁRIO;MG;2021-08-18;MG
+Stella Rezende;NHO-4X76;40;Não binário;Favela Clarice Santos, 99;SÃO JOÃO DA MATA;MG;2023-05-10;MG
+Evelyn Mendes;GKA-7K87;86;Não binário;Lagoa Moraes, 526;CONCEIÇÃO DE IPANEMA;MG;2020-05-17;MG
+Francisco Souza;ZHZ-9V84;85;Homem;Feira Natália da Cunha, 75;BELA VISTA DE MINAS;MG;2022-12-14;MG
+Lucas Gabriel Silveira;LPM-9G23;28;Homem;Praia Brenda Costa, 61;BUENÓPOLIS;MG;2020-10-24;MG
+Isadora Rodrigues;FQL-2H57;14;Não binário;Estação Souza, 190;MATA VERDE;MG;2021-12-20;MG
+Beatriz Almeida;QND-6K94;11;Mulher;Sítio Pereira, 839;VERDELÂNDIA;MG;2023-03-07;MG
+Alice Alves;VOG-4E63;30;Não binário;Chácara de Novaes, 57;SERITINGA;MG;2021-05-12;MG
+Heloísa Ribeiro;UXA-4B35;31;Não binário;Praça Cardoso, 20;SENADOR MODESTINO GONÇALVES;MG;2020-04-09;MG
+Bruna Moraes;AOR-6B80;59;Não binário;Conjunto Gonçalves, 3;CAPUTIRA;MG;2023-01-19;MG
+Luna da Cruz;SXZ-7W32;49;Mulher;Travessa Luna Santos, 73;CONCEIÇÃO DAS ALAGOAS;MG;2021-11-10;MG
+Ana Vitória Ramos;LSJ-2K58;81;Mulher;Morro de Monteiro, 664;MOEMA;MG;2022-03-17;MG
+Emilly Santos;GBT-4Q41;85;Não binário;Setor Pires, 6;PALMÓPOLIS;MG;2022-08-07;MG
+Sophia Cardoso;WBK-6B70;87;Não binário;Estação Freitas, 2;SACRAMENTO;MG;2020-05-03;MG
+Bryan da Cunha;TGQ-7Y78;78;Homem;Chácara de da Mata, 4;ORIZÂNIA;MG;2022-04-20;MG
+Cauã Melo;BHZ-0T82;27;Homem;Conjunto Moreira, 91;SERRA AZUL DE MINAS;MG;2020-06-18;MG
+Sra. Olivia da Rocha;EBH-2D92;82;Não binário;Esplanada Lopes, 480;CONCEIÇÃO DAS ALAGOAS;MG;2022-09-23;MG
+Ana Júlia Campos;QQV-6F73;70;Não binário;Pátio de Moreira, 66;ITAIPÉ;MG;2021-11-26;MG
+Ian Azevedo;NQR-4S97;98;Homem;Morro Caldeira, 896;CENTRALINA;MG;2021-08-24;MG
+Valentina Novaes;AGW-8Y88;37;Mulher;Sítio Carlos Eduardo Rodrigues, 22;CÓRREGO NOVO;MG;2020-03-08;MG
+Ana Clara Melo;INK-0M13;90;Mulher;Morro Nunes;COIMBRA;MG;2023-03-23;MG
+Laura Sales;LNH-7I44;13;Não binário;Residencial Vitória da Paz;SOBRÁLIA;MG;2022-05-28;MG
+Isadora Monteiro;YAQ-4B06;46;Não binário;Estação Maria Julia Cunha, 48;ARICANDUVA;MG;2020-06-08;MG
+Joana Mendes;SNC-0X30;15;Não binário;Distrito de Pinto, 53;PAINEIRAS;MG;2020-02-08;MG
+Júlia Freitas;VMD-0I50;33;Mulher;Rodovia de Almeida, 8;FELISBURGO;MG;2022-07-28;MG
+Maria Vitória Ramos;XZA-6A93;83;Não binário;Vereda Maria Eduarda Dias, 50;ABRE CAMPO;MG;2020-02-01;MG
+Maria Fernanda Castro;NSF-2I64;20;Mulher;Estrada Luiz Gustavo da Cruz, 55;CANA VERDE;MG;2020-05-17;MG
+Ana Beatriz Cunha;FNE-8Y19;57;Não binário;Favela Cavalcanti, 23;RECREIO;MG;2021-11-11;MG
+Pedro Miguel Cavalcanti;RDB-7A83;9;Homem;Avenida Yasmin Cavalcanti, 55;PERDIZES;MG;2021-01-12;MG
+Samuel Moura;UTP-6R69;68;Homem;Parque Campos, 61;SOBRÁLIA;MG;2023-06-02;MG
+Fernando Campos;ERQ-4W31;36;Homem;Viela Bruna Silveira, 54;PRATÁPOLIS;MG;2021-05-08;MG
+Fernanda Santos;ZKA-8H63;24;Mulher;Praça de da Paz, 3;JACUTINGA;MG;2020-01-16;MG
+Luiz Gustavo Viana;HRF-1I70;71;Homem;Área Viana;PEQUERI;MG;2020-11-03;MG
+Fernanda Moreira;OHP-9S26;22;Não binário;Praia de da Conceição, 77;SERRANÓPOLIS DE MINAS;MG;2022-03-18;MG
+Luiz Henrique Ribeiro;EUL-8I25;59;Homem;Favela Ana Sophia Pires, 273;ESTRELA DO SUL;MG;2021-12-28;MG
+Vitor Hugo Santos;KMP-1E45;43;Homem;Travessa Maria Alice Ribeiro, 579;DATAS;MG;2020-10-23;MG
+Natália da Cunha;CUG-7F49;0;Não binário;Ladeira Cavalcanti, 6;BUENÓPOLIS;MG;2021-06-03;MG
+Davi Lucas da Mota;AYC-0X83;24;Homem;Favela de Duarte, 90;ARAPORÃ;MG;2023-01-24;MG

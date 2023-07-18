@@ -1,0 +1,41 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Cauã Duarte;OXA-0C19;61;Homem;Residencial Novaes, 93;MIGUEL PEREIRA;RJ;2021-04-22;RJ
+Carolina Fogaça;DEK-9K26;69;Não binário;Rua Pereira;MIGUEL PEREIRA;RJ;2022-03-03;RJ
+Ana Julia Rodrigues;HQU-4W81;68;Não binário;Feira Sophie Pinto;MANGARATIBA;RJ;2022-05-23;RJ
+Calebe Viana;COR-8D31;26;Homem;Passarela Porto, 58;TRÊS RIOS;RJ;2023-05-13;RJ
+Natália Oliveira;EPE-0K40;98;Não binário;Morro Nogueira, 9;ARMAÇÃO DOS BÚZIOS;RJ;2023-02-14;RJ
+Brenda Farias;TTL-0O32;67;Não binário;Loteamento de Fogaça;IGUABA GRANDE;RJ;2023-07-14;RJ
+Otávio da Cunha;EEG-4S82;96;Homem;Setor Francisco Azevedo, 8;SÃO FRANCISCO DE ITABAPOANA;RJ;2023-05-31;RJ
+Clara Ribeiro;UNP-0E91;66;Mulher;Trecho Pinto, 8;CACHOEIRAS DE MACACU;RJ;2022-09-11;RJ
+Luiz Otávio Castro;XEG-3W97;89;Homem;Favela Catarina Porto, 479;IGUABA GRANDE;RJ;2020-03-22;RJ
+Sofia da Rocha;MUJ-3S03;41;Não binário;Jardim Fernandes, 74;CARAPEBUS;RJ;2020-02-11;RJ
+Cecília Sales;POY-0V74;17;Não binário;Passarela Alves, 6;TERESÓPOLIS;RJ;2023-02-22;RJ
+Maria Clara Moura;VIR-7J12;53;Mulher;Parque de Rodrigues, 45;CARMO;RJ;2020-09-18;RJ
+Alexia Duarte;NYK-4C82;73;Mulher;Lago Silveira, 7;BARRA DO PIRAÍ;RJ;2020-09-25;RJ
+Kevin Almeida;ZMX-0V49;82;Homem;Trevo Moura, 5;PETRÓPOLIS;RJ;2022-01-28;RJ
+Laura Cavalcanti;RVG-9W17;37;Não binário;Recanto Cecília Rezende, 16;NOVA IGUAÇU;RJ;2020-12-18;RJ
+Dr. Henrique Costa;LCB-2U83;81;Homem;Chácara de Campos, 743;CORDEIRO;RJ;2022-03-11;RJ
+Elisa Barros;SPR-6B42;27;Não binário;Feira Martins, 79;ITAPERUNA;RJ;2020-10-27;RJ
+Diogo Cardoso;VXN-3J48;25;Homem;Viela Luiz Gustavo Nascimento, 4;COMENDADOR LEVY GASPARIAN;RJ;2022-06-13;RJ
+Sr. João Guilherme Correia;KSF-1J01;65;Homem;Lagoa Emanuella Castro, 7;SÃO FRANCISCO DE ITABAPOANA;RJ;2022-03-01;RJ
+Anthony Martins;GEU-4D79;85;Homem;Lago da Paz, 57;PARATY;RJ;2021-07-24;RJ
+Natália Freitas;OQQ-5V50;49;Mulher;Jardim Aragão, 92;ITATIAIA;RJ;2021-01-23;RJ
+Maria Alice Moraes;WDE-4B25;40;Não binário;Vale Milena Cardoso, 96;VOLTA REDONDA;RJ;2020-07-11;RJ
+Pedro Lucas Castro;PTZ-6Y09;84;Homem;Praia de Pires, 18;ENGENHEIRO PAULO DE FRONTIN;RJ;2022-07-04;RJ
+Pedro Lucas Carvalho;GND-9L51;95;Homem;Lagoa João Miguel Cardoso, 92;PORCIÚNCULA;RJ;2021-11-12;RJ
+Daniela Nascimento;EDJ-2D45;52;Não binário;Favela de da Costa, 143;SAQUAREMA;RJ;2021-12-12;RJ
+Dra. Alícia Farias;BPX-5U75;17;Não binário;Conjunto Eloah Rezende, 92;ITAGUAÍ;RJ;2020-02-22;RJ
+Sra. Maria Campos;ZQW-6R13;90;Mulher;Trevo de Moreira, 95;SÃO SEBASTIÃO DO ALTO;RJ;2021-05-02;RJ
+Maitê da Conceição;TAI-3M26;80;Não binário;Residencial Stephany das Neves, 13;AREAL;RJ;2020-09-01;RJ
+Alícia Nascimento;JMD-2S62;64;Mulher;Área Theo Freitas, 92;SILVA JARDIM;RJ;2020-11-26;RJ
+Yasmin Cardoso;WTT-3N16;55;Não binário;Rodovia João Guilherme Viana;GUAPIMIRIM;RJ;2023-02-19;RJ
+Pedro Fogaça;WAP-2A07;11;Homem;Alameda Bernardo Cardoso, 8;MACUCO;RJ;2020-01-10;RJ
+Ana Lívia Freitas;GWI-5O26;76;Não binário;Parque Costa, 63;DUQUE DE CAXIAS;RJ;2021-11-18;RJ
+Srta. Maria Sophia Ribeiro;ZNP-0V66;17;Mulher;Alameda Luiz Fernando Santos;ARMAÇÃO DOS BÚZIOS;RJ;2023-03-21;RJ
+Ana Pereira;SGS-3J69;96;Mulher;Pátio Erick Carvalho, 3;APERIBÉ;RJ;2020-10-12;RJ
+Heloísa Mendes;KCF-0V34;100;Mulher;Campo Eloah Cardoso, 8;SUMIDOURO;RJ;2020-08-07;RJ
+Lívia Gonçalves;LBF-5F06;94;Não binário;Condomínio Ribeiro;SÃO JOSÉ DE UBÁ;RJ;2020-07-05;RJ
+Samuel da Cunha;PEM-3G31;20;Homem;Área Natália Rocha, 114;CARMO;RJ;2021-04-11;RJ
+Kamilly Teixeira;UDY-3K78;77;Mulher;Pátio Maria Alice Gonçalves, 37;PIRAÍ;RJ;2023-01-30;RJ
+Mirella Araújo;BVZ-1I16;68;Não binário;Feira Sales, 93;ITAPERUNA;RJ;2020-03-09;RJ
+Sr. Luiz Gustavo Rodrigues;ROD-9Q29;3;Homem;Lago da Rosa, 35;JAPERI;RJ;2020-07-22;RJ

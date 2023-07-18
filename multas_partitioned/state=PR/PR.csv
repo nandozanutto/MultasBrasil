@@ -1,0 +1,47 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Emanuelly Freitas;QEQ-7M90;48;Mulher;Jardim de Moraes, 95;ITAPERUÇU;PR;2021-06-21;PR
+Mariana Martins;BDR-4N16;23;Não binário;Largo Santos, 953;ESPERANÇA NOVA;PR;2022-01-14;PR
+Maria da Costa;EDX-4D72;45;Não binário;Pátio João Pedro Pereira, 772;SANTANA DO ITARARÉ;PR;2022-12-22;PR
+Alexia Cardoso;DLC-1V26;29;Não binário;Trevo de Campos, 23;SANTA TEREZINHA DE ITAIPU;PR;2020-12-04;PR
+Danilo Sales;IJB-2L70;78;Homem;Passarela de Lima;VIRMOND;PR;2022-05-30;PR
+Alana Silva;XWP-3F99;9;Mulher;Loteamento Pereira, 6;VENTANIA;PR;2022-11-26;PR
+Ana Júlia Novaes;TGC-9J69;75;Não binário;Sítio Cardoso, 3;UNIÃO DA VITÓRIA;PR;2021-12-19;PR
+Kevin Pereira;MBG-8R67;76;Homem;Lagoa de Pires, 7;NOVO ITACOLOMI;PR;2021-07-11;PR
+Dra. Ana Vitória Costela;ATE-3C59;26;Mulher;Lago Silveira, 586;MARILÂNDIA DO SUL;PR;2021-06-22;PR
+Olivia Monteiro;ZOE-2R76;85;Não binário;Recanto de Aragão, 837;FAROL;PR;2021-07-23;PR
+Diego Fogaça;BCV-8M31;43;Homem;Praia da Rosa, 891;ALTO PARANÁ;PR;2020-04-23;PR
+Raul Cardoso;JWE-5L87;17;Homem;Residencial Evelyn da Cunha, 25;SARANDI;PR;2022-06-26;PR
+Leandro Pereira;FRZ-5J50;46;Homem;Viaduto Araújo, 98;ITAGUAJÉ;PR;2020-07-24;PR
+Mariane da Mata;GWB-0P05;45;Não binário;Conjunto de Pereira;SANTA MÔNICA;PR;2020-06-28;PR
+Davi Luiz Gonçalves;WPE-6S57;99;Homem;Travessa Juan Nunes, 38;SÃO JOÃO DO CAIUÁ;PR;2023-05-04;PR
+Letícia Lima;FJX-8Q48;27;Mulher;Viaduto Ana Laura Silva, 12;CARAMBEÍ;PR;2022-10-19;PR
+Marcelo Azevedo;DZI-0X55;46;Homem;Trevo Freitas, 5;CARLÓPOLIS;PR;2020-10-10;PR
+Maria Clara Farias;YRH-5I17;76;Não binário;Jardim Moura, 660;PARANAGUÁ;PR;2022-08-19;PR
+Rebeca das Neves;ARE-0E25;95;Não binário;Setor de Ramos, 35;BRASILÂNDIA DO SUL;PR;2022-02-02;PR
+Vitor Hugo Oliveira;STO-7M50;7;Homem;Pátio de Costela, 77;COLOMBO;PR;2023-04-28;PR
+Sr. João Lucas da Paz;LHJ-3B84;65;Homem;Aeroporto João Guilherme Santos, 925;CHOPINZINHO;PR;2020-02-14;PR
+Luana Cardoso;TXT-6W82;89;Mulher;Sítio Ana Beatriz Nogueira, 3;QUITANDINHA;PR;2020-04-05;PR
+Raquel Gonçalves;TKT-8J02;48;Mulher;Estação Rafael Sales, 72;LUNARDELLI;PR;2020-04-19;PR
+Ana Carolina da Rosa;YLS-7O84;97;Não binário;Sítio Azevedo, 75;MARINGÁ;PR;2022-10-26;PR
+Heloísa Correia;ZVL-2R55;54;Não binário;Estação Davi Lucas Nascimento, 30;SANTA MARIA DO OESTE;PR;2020-09-04;PR
+Camila Nunes;EDK-3A05;20;Mulher;Parque de Cardoso, 96;LONDRINA;PR;2021-04-04;PR
+Pedro Miguel Pereira;ZYZ-4L47;57;Homem;Rodovia Maria Vitória Teixeira;MANFRINÓPOLIS;PR;2021-12-09;PR
+Dr. Thomas Correia;BHU-5U33;8;Homem;Passarela de Santos, 28;DOIS VIZINHOS;PR;2022-09-10;PR
+Srta. Maria Clara Farias;NQS-4Q57;40;Mulher;Lago Alves, 36;NOVA AMÉRICA DA COLINA;PR;2020-06-05;PR
+Sr. Calebe Costela;JTF-4Q58;93;Homem;Lagoa da Cruz;NOVA ALIANÇA DO IVAÍ;PR;2021-02-15;PR
+Melissa Teixeira;LWX-1W88;72;Mulher;Jardim Correia, 9;JUNDIAÍ DO SUL;PR;2021-12-31;PR
+Agatha Pires;VHV-8M75;65;Mulher;Alameda de Costa, 953;CARLÓPOLIS;PR;2020-01-22;PR
+Marina Cardoso;LXQ-0A67;44;Não binário;Favela Cunha, 92;RESERVA;PR;2021-02-10;PR
+Heloísa Correia;LBF-0K38;80;Mulher;Campo Rebeca Barbosa, 23;SÃO MANOEL DO PARANÁ;PR;2022-02-06;PR
+João Miguel Correia;MAA-1Y29;54;Homem;Trecho de Duarte, 12;SANTA CRUZ DE MONTE CASTELO;PR;2020-06-08;PR
+Ana Cardoso;KDQ-2F43;43;Mulher;Distrito Souza, 7;CÉU AZUL;PR;2020-02-23;PR
+Melissa Aragão;JHK-1F45;35;Não binário;Viaduto da Cunha, 39;BRAGANEY;PR;2022-01-26;PR
+Gustavo Henrique Rezende;BMO-3A25;85;Homem;Quadra Marcos Vinicius Lima, 97;JUNDIAÍ DO SUL;PR;2021-09-18;PR
+Matheus Pinto;ROR-1B35;32;Homem;Residencial Augusto Pinto, 225;SERTANEJA;PR;2021-11-13;PR
+Juliana Moraes;TWC-2Y17;54;Não binário;Praça de Vieira, 2;IVATÉ;PR;2020-10-17;PR
+Vitor Gabriel Moreira;OPN-1O02;84;Homem;Passarela de Freitas, 92;IMBITUVA;PR;2020-10-07;PR
+Ana Luiza Fernandes;USC-8E55;70;Mulher;Lago Nunes, 36;PITANGUEIRAS;PR;2022-09-11;PR
+Daniela Azevedo;KJQ-7P03;14;Mulher;Área Rodrigo Cavalcanti, 99;CORBÉLIA;PR;2021-11-22;PR
+Giovanna Dias;BGG-6J28;66;Mulher;Ladeira Letícia Freitas, 135;NOVA LARANJEIRAS;PR;2022-01-05;PR
+Sr. João Felipe Costela;DDT-9L09;33;Homem;Parque Castro;BOM JESUS DO SUL;PR;2021-04-18;PR
+Sr. Marcos Vinicius Nogueira;CRS-4S87;100;Homem;Trevo João Pedro Costa, 991;IMBAÚ;PR;2020-12-06;PR

@@ -1,0 +1,38 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Sra. Isabelly Souza;JYT-3Z33;99;Mulher;Praia Monteiro, 98;BOA VISTA DO RAMOS;AM;2020-04-28;AM
+Ana Clara Nogueira;VJL-8R86;66;Mulher;Morro Costela, 38;CARAUARI;AM;2022-01-18;AM
+Sra. Luiza Viana;LOG-4E02;2;Não binário;Área da Mota, 42;AUTAZES;AM;2020-12-15;AM
+Leonardo Martins;RTF-6U41;83;Homem;Jardim da Mata, 3;BOA VISTA DO RAMOS;AM;2020-07-22;AM
+Alexia Sales;WDM-5U35;26;Não binário;Vale de Barbosa;PRESIDENTE FIGUEIREDO;AM;2020-01-02;AM
+Sr. Rodrigo Araújo;XBT-4K04;40;Homem;Distrito Ferreira;NOVA OLINDA DO NORTE;AM;2023-01-12;AM
+Ana Luiza Pereira;VWC-2P09;27;Não binário;Viaduto Luiz Miguel das Neves, 809;ITAPIRANGA;AM;2021-05-08;AM
+Arthur Costa;JHC-7E57;79;Homem;Estrada Kaique Gonçalves;IPIXUNA;AM;2022-06-25;AM
+Maria Clara da Mota;ULH-1H46;74;Não binário;Área Correia, 68;CAAPIRANGA;AM;2022-10-14;AM
+Maria Cavalcanti;QUX-7J90;97;Não binário;Rodovia de Melo, 60;APUÍ;AM;2021-01-21;AM
+Sophie Pinto;QTF-1H81;92;Mulher;Ladeira Sophia Farias, 89;APUÍ;AM;2023-02-28;AM
+Dra. Laís Pinto;GNW-0C50;72;Não binário;Favela Erick Silveira, 86;NHAMUNDÁ;AM;2022-09-05;AM
+Emanuella Fernandes;DLN-5V88;93;Mulher;Chácara de Moura, 47;AMATURÁ;AM;2021-10-23;AM
+Luna Viana;XWB-2Q18;76;Mulher;Lago João Costela, 888;SANTA ISABEL DO RIO NEGRO;AM;2020-11-30;AM
+Juliana da Costa;DUC-1C50;97;Mulher;Praça de Gonçalves, 30;SÃO PAULO DE OLIVENÇA;AM;2021-12-09;AM
+Sophie Vieira;GQB-3Z61;93;Mulher;Recanto de Gomes;HUMAITÁ;AM;2022-12-20;AM
+Ana Sophia Moura;CHG-4O43;56;Não binário;Praça da Rosa, 796;SILVES;AM;2023-01-18;AM
+Isabelly Gomes;CLQ-2M52;23;Não binário;Esplanada de Cardoso, 64;CAREIRO;AM;2022-04-18;AM
+Luiz Henrique Rodrigues;DBS-7G70;9;Homem;Largo Carlos Eduardo da Cunha, 997;RIO PRETO DA EVA;AM;2023-02-27;AM
+Sarah da Mota;KHN-1J94;57;Não binário;Morro Juan Sales, 27;UARINI;AM;2020-01-24;AM
+Maria Vitória da Cruz;QOS-0U96;80;Não binário;Vale de Lopes, 52;IPIXUNA;AM;2022-10-18;AM
+Esther Monteiro;WLA-1T16;76;Não binário;Largo de Nascimento, 38;NHAMUNDÁ;AM;2022-09-20;AM
+Dr. Benício Rodrigues;MIH-3F17;67;Homem;Lagoa de Azevedo, 8;SÃO GABRIEL DA CACHOEIRA;AM;2021-10-31;AM
+Manuela Duarte;ZRM-2J58;62;Mulher;Via de Oliveira;SÃO PAULO DE OLIVENÇA;AM;2022-05-19;AM
+Sabrina Gonçalves;TQS-2M78;63;Não binário;Feira Samuel Moura, 48;SANTA ISABEL DO RIO NEGRO;AM;2022-06-07;AM
+Sr. Diego Monteiro;KXZ-7F79;49;Homem;Feira João Felipe Mendes, 2;CAREIRO DA VÁRZEA;AM;2020-07-13;AM
+Gustavo da Costa;FIA-3S30;27;Homem;Rodovia da Cunha, 52;NOVO AIRÃO;AM;2020-03-29;AM
+Maria Sophia Duarte;RUT-8N06;58;Não binário;Conjunto de Oliveira, 45;IPIXUNA;AM;2020-08-21;AM
+Ana Laura Gomes;OII-0O04;70;Mulher;Aeroporto Bernardo Duarte, 88;SÃO SEBASTIÃO DO UATUMÃ;AM;2020-05-05;AM
+Alexia Santos;XLV-6F06;13;Não binário;Largo Freitas, 38;MANACAPURU;AM;2021-10-30;AM
+Sofia Melo;HTZ-0K73;51;Não binário;Setor Caldeira, 14;BERURI;AM;2021-06-06;AM
+Cecília Gomes;DKD-7A06;15;Mulher;Quadra Duarte, 252;AUTAZES;AM;2022-04-05;AM
+Lívia Araújo;PVM-5W71;48;Não binário;Recanto de Peixoto, 36;PAUINI;AM;2021-11-23;AM
+Augusto Sales;AWP-7F86;76;Homem;Alameda Cardoso;ALVARÃES;AM;2021-02-21;AM
+Dr. Enrico Oliveira;RQQ-9V54;89;Homem;Quadra de Cunha;AMATURÁ;AM;2021-09-01;AM
+Theo Santos;CTC-0J68;28;Homem;Rodovia Marcelo Souza, 6;PRESIDENTE FIGUEIREDO;AM;2021-11-09;AM
+Benício Porto;QOH-4D46;39;Homem;Feira de Moura, 67;MANAQUIRI;AM;2021-02-27;AM

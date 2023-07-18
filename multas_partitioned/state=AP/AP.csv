@@ -1,0 +1,36 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Fernanda Pires;BTQ-4E31;42;Mulher;Distrito de Nogueira, 27;SANTANA;AP;2020-12-25;AP
+Helena Dias;JIJ-0Q88;14;Não binário;Passarela Luiz Fernando Farias, 34;ITAUBAL;AP;2022-08-21;AP
+Raquel Duarte;UJC-6F90;29;Não binário;Praia de Almeida, 59;SANTANA;AP;2022-10-24;AP
+Dra. Kamilly da Cunha;TMN-4K27;14;Mulher;Área Gabriel Pires, 84;ITAUBAL;AP;2020-01-30;AP
+Maria Eduarda da Rosa;WLP-8O76;62;Mulher;Alameda Araújo, 37;VITÓRIA DO JARI;AP;2022-03-05;AP
+Stella Rocha;KEC-1Z98;68;Não binário;Conjunto Raquel Cavalcanti, 53;PRACUÚBA;AP;2022-09-05;AP
+Dr. Rodrigo Farias;GKC-1F25;14;Homem;Estação da Mata, 64;SERRA DO NAVIO;AP;2021-08-17;AP
+Caroline Aragão;QLX-8P35;63;Não binário;Trecho de Pinto, 38;PEDRA BRANCA DO AMAPARI;AP;2020-05-17;AP
+Enzo Gabriel da Mata;VKL-0L94;83;Homem;Esplanada Joana Santos;FERREIRA GOMES;AP;2021-01-01;AP
+Sarah Lopes;ELH-4F66;2;Não binário;Residencial de Pinto;PORTO GRANDE;AP;2020-10-11;AP
+Davi Lucca da Costa;FEZ-7F45;48;Homem;Avenida Silveira, 79;PRACUÚBA;AP;2023-07-07;AP
+Maria Alice Viana;QPG-8E19;67;Mulher;Parque da Mota, 520;PORTO GRANDE;AP;2022-07-31;AP
+Levi Correia;MEO-1R73;2;Homem;Pátio Rodrigues, 94;PEDRA BRANCA DO AMAPARI;AP;2023-01-09;AP
+Emilly Ramos;SCC-4Q70;6;Não binário;Avenida de Caldeira, 14;PEDRA BRANCA DO AMAPARI;AP;2022-09-05;AP
+Dra. Kamilly Cardoso;ONF-6A67;49;Não binário;Loteamento Rocha, 145;SANTANA;AP;2023-06-09;AP
+Pedro Lucas Pires;IFP-6R87;43;Homem;Rodovia Carvalho, 3;OIAPOQUE;AP;2020-04-21;AP
+Ana Sophia Moura;TSX-6Z51;13;Não binário;Vila de Lima, 96;PEDRA BRANCA DO AMAPARI;AP;2023-06-01;AP
+Luiz Felipe Ferreira;ODT-8P18;99;Homem;Estação Araújo, 21;CUTIAS;AP;2023-01-09;AP
+Eduarda Ribeiro;FCG-2M21;74;Não binário;Fazenda de Almeida, 7;ITAUBAL;AP;2021-03-24;AP
+Sra. Maria Cecília da Cunha;CGS-6V33;49;Mulher;Lagoa de Ramos, 9;PRACUÚBA;AP;2022-09-07;AP
+Stella Peixoto;XFV-0H07;19;Não binário;Vila de Nunes, 536;MACAPÁ;AP;2021-05-25;AP
+Matheus Rezende;FKB-5W89;9;Homem;Núcleo de Peixoto, 8;CUTIAS;AP;2020-09-18;AP
+Maria Julia Lima;NWW-8C85;61;Não binário;Rua Lucas Gabriel Lopes, 1;LARANJAL DO JARI;AP;2020-02-15;AP
+Stephany Martins;MUR-2E16;4;Mulher;Viela Luiza Cavalcanti, 37;ITAUBAL;AP;2021-08-07;AP
+Sophie Ferreira;NNU-0I71;60;Não binário;Ladeira Campos, 11;SERRA DO NAVIO;AP;2023-07-04;AP
+Sra. Milena Alves;ZQR-1O77;3;Não binário;Morro Murilo Cunha, 9;OIAPOQUE;AP;2022-11-23;AP
+Joaquim da Costa;QGD-0O00;72;Homem;Praça de Alves, 58;CUTIAS;AP;2021-08-03;AP
+Maria Dias;QQH-3K64;27;Não binário;Vereda de da Paz, 320;SANTANA;AP;2021-04-26;AP
+Dra. Lívia Correia;GUH-9F32;44;Não binário;Parque Gabriel Ramos, 49;AMAPÁ;AP;2021-07-20;AP
+Maria Vitória Araújo;NAR-8E38;40;Mulher;Morro de da Paz, 74;MAZAGÃO;AP;2020-03-01;AP
+Caio Martins;ARI-5K94;17;Homem;Esplanada de Moreira, 2;CALÇOENE;AP;2022-10-09;AP
+Dra. Olivia Pereira;FHO-6P06;14;Não binário;Viela de Caldeira, 11;CALÇOENE;AP;2020-04-27;AP
+Isabel Cardoso;WYH-9M24;65;Mulher;Distrito de Mendes, 30;SERRA DO NAVIO;AP;2021-05-16;AP
+Sra. Maria Eduarda Novaes;QAO-3F03;95;Mulher;Residencial Novaes, 29;PEDRA BRANCA DO AMAPARI;AP;2022-10-03;AP
+Raquel da Mota;EMO-3E93;29;Não binário;Área Gabriel Aragão;TARTARUGALZINHO;AP;2021-01-14;AP

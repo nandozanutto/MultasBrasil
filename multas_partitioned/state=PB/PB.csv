@@ -1,0 +1,42 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Pedro Lucas Moura;ESC-3Q10;79;Homem;Rua Igor Vieira, 30;CAJAZEIRINHAS;PB;2021-12-20;PB
+Leonardo Mendes;QFY-3Y39;83;Homem;Feira Azevedo, 65;COREMAS;PB;2020-03-31;PB
+Clarice Moreira;AWK-5C36;52;Mulher;Rua de da Luz, 36;SÃO FRANCISCO;PB;2022-12-20;PB
+Cauã Lopes;ZBE-8G90;28;Homem;Rua Erick Alves, 268;UIRAÚNA;PB;2021-03-16;PB
+Gabrielly Nogueira;BOC-5Z53;44;Mulher;Esplanada Natália Barbosa;LAGOA DE DENTRO;PB;2023-04-05;PB
+Dr. Juan Nunes;QUZ-9S01;81;Homem;Residencial João Miguel Aragão, 427;POMBAL;PB;2022-10-15;PB
+Clarice Silveira;TRH-1Y74;25;Mulher;Lago Correia, 47;RIO TINTO;PB;2020-06-17;PB
+Sabrina da Paz;PPA-7O21;46;Não binário;Chácara Clarice Nogueira, 71;JUNCO DO SERIDÓ;PB;2020-09-09;PB
+Maria Eduarda Sales;OBE-2X09;20;Mulher;Fazenda Santos, 48;CONDADO;PB;2020-08-30;PB
+Vitória Cunha;MNC-3R58;93;Não binário;Colônia de Nogueira;GURINHÉM;PB;2022-01-01;PB
+Bianca Silva;MHH-4A51;15;Não binário;Largo Porto;FREI MARTINHO;PB;2020-06-01;PB
+Anthony Santos;JXL-7G82;61;Homem;Loteamento da Mata, 69;SÃO FRANCISCO;PB;2023-04-21;PB
+Olivia Duarte;AMJ-2W31;59;Mulher;Trecho Silveira, 14;PICUÍ;PB;2020-08-18;PB
+Rebeca Araújo;ERB-1P78;18;Mulher;Viaduto Cunha, 95;SERRA GRANDE;PB;2022-08-15;PB
+Helena Vieira;EJY-3X18;2;Não binário;Colônia Costa, 44;SÃO JOSÉ DE ESPINHARAS;PB;2022-03-14;PB
+Sofia Aragão;WEQ-7Y65;57;Mulher;Estação de Pires, 61;CUITÉ DE MAMANGUAPE;PB;2022-02-04;PB
+Catarina Aragão;HIV-5Q84;19;Mulher;Estrada Moura, 94;SALGADO DE SÃO FÉLIX;PB;2020-11-30;PB
+Letícia Pires;ARM-1X71;64;Mulher;Núcleo de Dias;ÁGUA BRANCA;PB;2020-05-05;PB
+João Miguel Correia;JWP-8C24;89;Homem;Parque Ana Júlia Mendes, 189;PAULISTA;PB;2023-06-28;PB
+Sr. Augusto Vieira;ARN-0Y06;41;Homem;Recanto Caroline das Neves;AREIAL;PB;2021-08-23;PB
+Maria Sophia Castro;WBL-6E36;2;Mulher;Favela de Oliveira, 66;POÇO DE JOSÉ DE MOURA;PB;2020-12-01;PB
+Pietro Silva;YMN-7F02;94;Homem;Ladeira Maria Alice Silva, 519;ITATUBA;PB;2022-07-05;PB
+Eloah Moura;FAL-8U36;39;Mulher;Parque Viana, 79;ALGODÃO DE JANDAÍRA;PB;2021-11-30;PB
+Letícia Silva;LZR-4P65;95;Não binário;Trecho Ana Beatriz da Rosa;GURINHÉM;PB;2022-12-03;PB
+Alexandre Mendes;KEK-9K09;89;Homem;Parque Anthony da Costa, 67;PITIMBU;PB;2022-05-01;PB
+Emanuelly da Rocha;JUQ-8B08;9;Não binário;Conjunto Sofia Gomes, 47;MANAÍRA;PB;2022-06-21;PB
+Luana Aragão;ZFA-0U92;97;Não binário;Pátio Cardoso;SANTANA DE MANGUEIRA;PB;2022-12-22;PB
+Dra. Maria Eduarda da Paz;YLB-2H56;38;Não binário;Feira Camila Moraes, 543;LOGRADOURO;PB;2021-05-25;PB
+Pedro Lucas Jesus;LHP-7B61;45;Homem;Passarela Alana Pires, 59;UIRAÚNA;PB;2020-06-28;PB
+Luiza Moraes;SSB-3G79;55;Mulher;Feira de Gonçalves;SÃO JOÃO DO TIGRE;PB;2020-07-25;PB
+Marcela Ramos;JQB-1N11;37;Mulher;Praça de Moreira;CAAPORÃ;PB;2022-05-29;PB
+Clara Costela;IXT-4X30;7;Mulher;Esplanada de Duarte;SÃO BENTINHO;PB;2022-12-25;PB
+André Santos;WYK-0Y37;16;Homem;Sítio de Vieira, 2;CONGO;PB;2022-03-01;PB
+Carolina da Paz;NEM-9N59;76;Não binário;Campo de Campos, 7;CATOLÉ DO ROCHA;PB;2021-04-17;PB
+Gabriela Silva;KCN-4W99;53;Mulher;Quadra Luiz Felipe Sales, 273;BARRA DE SANTANA;PB;2021-01-01;PB
+Luiz Miguel Rocha;UCK-5T55;50;Homem;Lagoa da Conceição, 814;TRIUNFO;PB;2021-10-20;PB
+Marcela Alves;ACF-6E60;51;Não binário;Via Luiza da Mata, 29;SOUSA;PB;2020-01-30;PB
+Maria Eduarda da Cruz;FVY-6J74;99;Mulher;Parque Silveira, 757;MAMANGUAPE;PB;2023-01-06;PB
+Srta. Sophie Campos;GER-4Q81;66;Não binário;Feira de Nunes, 1;SOUSA;PB;2021-03-19;PB
+Lucas Porto;LNA-1Q80;86;Homem;Largo Augusto Ramos, 9;BAYEUX;PB;2022-10-04;PB
+Vinicius da Paz;SBR-8U36;44;Homem;Rodovia de Santos, 19;COXIXOLA;PB;2022-05-04;PB

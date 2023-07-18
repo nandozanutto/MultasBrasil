@@ -1,0 +1,41 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Ana Luiza Carvalho;VSY-8R85;75;Não binário;Área de Dias, 51;FELIZ DESERTO;AL;2022-10-28;AL
+Bruna Sales;AZY-2X59;5;Não binário;Alameda Moraes, 6;CAMPESTRE;AL;2020-05-11;AL
+Thomas Pereira;YQF-3Z62;67;Homem;Praia Lívia Rezende, 53;MARIBONDO;AL;2021-01-21;AL
+Isis Silveira;UFP-5N16;71;Não binário;Condomínio de Pinto, 19;ESTRELA DE ALAGOAS;AL;2020-08-04;AL
+Maria Vitória Santos;CUA-8A94;74;Não binário;Rodovia Maitê da Rosa, 905;CAPELA;AL;2021-03-13;AL
+Nina Santos;IBM-6Q95;64;Não binário;Passarela Ian Caldeira, 3;CRAÍBAS;AL;2021-02-15;AL
+Srta. Sarah Cardoso;HPP-8N60;15;Não binário;Favela Alice Ferreira, 73;POÇO DAS TRINCHEIRAS;AL;2021-01-16;AL
+Marcela Cardoso;IQJ-3P18;67;Mulher;Loteamento de Fernandes, 9;CAMPO ALEGRE;AL;2020-09-29;AL
+Esther Lima;RVN-0M02;53;Mulher;Feira Thiago Souza, 44;OLIVENÇA;AL;2021-05-26;AL
+Alícia da Rosa;JHE-2X54;64;Mulher;Vila de Souza, 67;SÃO JOSÉ DA LAJE;AL;2020-07-06;AL
+Gabrielly Dias;AMJ-9W85;57;Não binário;Parque Rezende, 62;PALESTINA;AL;2020-10-21;AL
+Dra. Brenda da Mota;WMK-9Q44;83;Não binário;Alameda de Fernandes, 54;IBATEGUARA;AL;2020-05-23;AL
+Pedro Henrique Fogaça;XFP-6G12;42;Homem;Fazenda Melo, 420;ROTEIRO;AL;2020-08-14;AL
+Natália Martins;UNU-1M65;67;Mulher;Pátio João Miguel Nunes, 702;MARAVILHA;AL;2022-10-11;AL
+Emanuelly Campos;OWN-0G56;15;Não binário;Chácara Alana Campos, 4;QUEBRANGULO;AL;2023-03-25;AL
+Sr. Luiz Fernando Fogaça;DXJ-5R18;4;Homem;Vila Isabella Moraes, 96;CRAÍBAS;AL;2020-03-15;AL
+Fernando Nascimento;FJN-3J43;55;Homem;Lago de da Paz, 72;CANAPI;AL;2021-09-23;AL
+Stella Monteiro;JOS-9I66;34;Não binário;Largo de Gomes, 765;SANTANA DO MUNDAÚ;AL;2023-03-02;AL
+Yuri Moraes;OJZ-4G66;13;Homem;Núcleo de Silveira, 9;TRAIPU;AL;2021-09-07;AL
+Theo Rezende;FDP-5K45;98;Homem;Vereda de Teixeira, 58;MATA GRANDE;AL;2021-07-27;AL
+Sra. Maria Clara Costela;QIT-8E00;73;Não binário;Ladeira Duarte, 32;ATALAIA;AL;2023-03-26;AL
+Sra. Bruna da Costa;RHI-4P62;89;Não binário;Viela Alana Farias, 11;CORURIPE;AL;2021-06-30;AL
+Marcela Martins;TOK-6S05;52;Não binário;Conjunto Farias, 52;PASSO DE CAMARAGIBE;AL;2021-12-07;AL
+Luiz Felipe Cunha;FJM-9J83;84;Homem;Ladeira Barbosa, 6;PIAÇABUÇU;AL;2022-05-28;AL
+Noah Martins;DVK-3J65;75;Homem;Colônia de Farias, 77;PÃO DE AÇÚCAR;AL;2022-08-08;AL
+Vitória Lopes;GMA-7Y81;5;Não binário;Loteamento Gonçalves, 29;SÃO LUÍS DO QUITUNDE;AL;2020-04-27;AL
+Vitor Gabriel Fernandes;ULT-5E55;92;Homem;Conjunto de Nascimento, 2;MARAVILHA;AL;2021-04-29;AL
+Sra. Maria Luiza Martins;YDU-4P29;15;Não binário;Núcleo Natália Sales, 38;SÃO JOSÉ DA TAPERA;AL;2022-07-28;AL
+Sr. Felipe Silveira;NZO-5R53;87;Homem;Via Fernanda Jesus, 5;OURO BRANCO;AL;2022-01-10;AL
+Ana Vitória Jesus;MQB-7U07;62;Mulher;Alameda Mendes, 400;PILAR;AL;2021-06-11;AL
+Thomas Teixeira;AJQ-5R14;75;Homem;Trecho de Azevedo, 33;BARRA DE SÃO MIGUEL;AL;2020-06-13;AL
+João Guilherme Pinto;WST-3I52;23;Homem;Favela Aragão, 38;PORTO REAL DO COLÉGIO;AL;2022-03-10;AL
+Marina Sales;AUC-7U24;40;Mulher;Morro Luigi da Conceição, 86;PIRANHAS;AL;2021-07-05;AL
+Sra. Ana Júlia da Cruz;EVG-8Z90;51;Não binário;Núcleo Bruna Silveira;PILAR;AL;2022-08-01;AL
+Thiago Sales;UGE-4A15;39;Homem;Lagoa da Rosa, 997;BATALHA;AL;2023-01-31;AL
+Dra. Isis Cunha;RYV-0Y12;85;Não binário;Colônia Rebeca Ferreira;JEQUIÁ DA PRAIA;AL;2023-05-18;AL
+Lorena das Neves;SHA-2B99;3;Mulher;Lagoa Cunha, 34;MARAVILHA;AL;2022-04-02;AL
+Srta. Maria Moraes;AYE-2Y64;45;Mulher;Alameda Barbosa, 22;MURICI;AL;2021-01-08;AL
+Luiz Fernando Cunha;MGV-4J93;39;Homem;Esplanada da Paz, 3;PENEDO;AL;2021-10-20;AL
+Sra. Isis das Neves;DNQ-3N38;21;Mulher;Praça das Neves, 515;PALESTINA;AL;2021-07-29;AL

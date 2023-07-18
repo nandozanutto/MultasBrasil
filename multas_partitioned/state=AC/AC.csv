@@ -1,0 +1,49 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Manuela Novaes;PWG-1Y38;0;Mulher;Rua Luana Barros, 8;SENA MADUREIRA;AC;2020-03-21;AC
+Sophia Cunha;CGJ-0K18;75;Não binário;Largo da Costa, 181;SENADOR GUIOMARD;AC;2021-06-29;AC
+Ana Beatriz da Luz;PPK-2R95;46;Mulher;Colônia de da Rosa, 95;MARECHAL THAUMATURGO;AC;2021-03-28;AC
+Isadora Silva;GRU-9N89;62;Não binário;Largo Rafaela Viana, 892;CRUZEIRO DO SUL;AC;2020-09-22;AC
+Maitê da Rocha;GNK-1N59;81;Não binário;Núcleo Carvalho, 971;XAPURI;AC;2023-01-10;AC
+Francisco Carvalho;JQX-3E55;68;Homem;Vila Emanuel Castro;PORTO WALTER;AC;2022-11-08;AC
+Benício Lima;MCK-9G43;68;Homem;Rodovia de Freitas, 77;ASSIS BRASIL;AC;2020-03-06;AC
+Maria Julia Monteiro;CVW-5O90;18;Não binário;Praça Farias, 76;MÂNCIO LIMA;AC;2020-08-03;AC
+Davi Lucas da Cruz;MXU-0N99;53;Homem;Viaduto Melo, 87;RODRIGUES ALVES;AC;2020-04-15;AC
+Brenda Martins;ZZH-1J98;3;Não binário;Recanto Carvalho, 5;FEIJÓ;AC;2023-05-17;AC
+Clara Rodrigues;RJX-5I41;42;Mulher;Passarela Isaac Moreira, 10;SENADOR GUIOMARD;AC;2021-10-26;AC
+Bruna Monteiro;WDG-7L67;44;Não binário;Rua Lima;MANOEL URBANO;AC;2021-01-19;AC
+Gabriela Lima;VRY-6K27;73;Não binário;Parque Gonçalves, 74;MANOEL URBANO;AC;2022-05-11;AC
+Srta. Bárbara Lopes;UWC-1U16;35;Mulher;Distrito de Mendes, 95;FEIJÓ;AC;2022-05-21;AC
+Isabella Mendes;PGG-2E50;15;Mulher;Esplanada Lavínia Martins, 26;ASSIS BRASIL;AC;2020-04-21;AC
+Camila Duarte;NBC-4G39;55;Mulher;Trevo Daniela Souza, 222;EPITACIOLÂNDIA;AC;2023-05-22;AC
+Natália da Mota;UVV-8S60;76;Não binário;Estrada Ribeiro;MARECHAL THAUMATURGO;AC;2021-09-10;AC
+Sra. Lavínia da Rocha;ORK-4T06;92;Não binário;Parque Fernandes, 8;XAPURI;AC;2023-07-06;AC
+Dra. Juliana Nascimento;JPP-2G07;90;Mulher;Aeroporto Araújo;RODRIGUES ALVES;AC;2020-10-16;AC
+João Miguel Ramos;SCY-2T39;26;Homem;Jardim Daniel Pires, 12;ACRELÂNDIA;AC;2021-06-06;AC
+Maria Julia Fogaça;UUV-8F58;3;Mulher;Área Diogo Ramos, 4;BUJARI;AC;2021-01-19;AC
+Sr. Fernando Duarte;NLW-9Y25;48;Homem;Alameda Pereira, 150;ACRELÂNDIA;AC;2021-09-20;AC
+Maria Alice Vieira;FQN-7Q65;74;Mulher;Ladeira de Rocha, 74;PLÁCIDO DE CASTRO;AC;2020-09-25;AC
+Davi Lucas Gonçalves;GWL-0G65;64;Homem;Feira de Correia, 3;SENA MADUREIRA;AC;2020-09-15;AC
+Pedro Lucas da Cruz;TSK-1K01;72;Homem;Colônia Renan Silva;MARECHAL THAUMATURGO;AC;2020-05-22;AC
+Marcelo Mendes;TSB-9D85;11;Homem;Passarela Enzo Pereira, 24;BRASILÉIA;AC;2022-02-24;AC
+Sofia Lopes;WQG-2M23;59;Não binário;Vereda Leonardo Moura, 69;SENADOR GUIOMARD;AC;2023-01-23;AC
+Elisa Cunha;IQT-3Q14;29;Não binário;Recanto Isabelly da Rocha, 6;ASSIS BRASIL;AC;2020-06-24;AC
+Alícia da Cunha;ORG-5F05;44;Não binário;Lago da Luz;FEIJÓ;AC;2023-03-12;AC
+Sra. Emilly Santos;FJZ-0H17;43;Mulher;Jardim de das Neves, 9;PORTO ACRE;AC;2020-08-04;AC
+Nina Melo;YQB-1Q18;26;Não binário;Chácara Camila da Paz, 175;ACRELÂNDIA;AC;2023-05-01;AC
+Nathan Costela;ZYF-2C97;77;Homem;Área Mendes, 14;BRASILÉIA;AC;2021-07-20;AC
+Ryan Rocha;RRQ-0C87;78;Homem;Aeroporto Agatha Nogueira, 32;PLÁCIDO DE CASTRO;AC;2023-05-25;AC
+Caroline Duarte;URF-1C23;54;Não binário;Loteamento Beatriz Moraes;RODRIGUES ALVES;AC;2023-03-12;AC
+Ana Júlia das Neves;YGL-3U67;85;Não binário;Lagoa de Alves, 41;MANOEL URBANO;AC;2022-11-25;AC
+Maria Vitória Dias;PVU-8N09;4;Mulher;Área Pires, 147;SANTA ROSA DO PURUS;AC;2021-11-21;AC
+Sr. Daniel da Conceição;UDT-1W88;14;Homem;Trecho Pinto, 74;CRUZEIRO DO SUL;AC;2020-10-13;AC
+Dra. Lorena Rezende;KVQ-1D03;71;Mulher;Loteamento de da Luz;PLÁCIDO DE CASTRO;AC;2022-01-01;AC
+Larissa da Cunha;OOF-0K97;83;Não binário;Distrito de Caldeira, 70;PLÁCIDO DE CASTRO;AC;2020-12-25;AC
+Srta. Alícia da Mota;JIN-2T40;0;Não binário;Feira de da Mata, 130;TARAUACÁ;AC;2023-05-11;AC
+Nicole Gonçalves;RIP-6G13;23;Mulher;Distrito Lorena Silva, 33;SENA MADUREIRA;AC;2022-09-29;AC
+Vitória da Luz;QOT-3Z36;46;Mulher;Travessa Lorena da Cruz, 41;PORTO WALTER;AC;2022-12-03;AC
+Carlos Eduardo da Rocha;UKD-9W77;58;Homem;Colônia Souza, 973;JORDÃO;AC;2020-01-19;AC
+Diogo da Costa;AZQ-7G41;34;Homem;Largo de da Luz, 65;ASSIS BRASIL;AC;2022-10-28;AC
+Dra. Fernanda Vieira;CYQ-4O33;63;Mulher;Morro Santos, 12;CAPIXABA;AC;2020-03-27;AC
+Fernando Gomes;ZCH-5E57;84;Homem;Favela Ryan Viana, 6;SANTA ROSA DO PURUS;AC;2021-04-30;AC
+Esther Peixoto;NSO-9E10;88;Não binário;Residencial Matheus Nogueira, 2;FEIJÓ;AC;2020-01-16;AC
+Alana Campos;AQQ-9W26;38;Não binário;Viela de Moreira, 944;MANOEL URBANO;AC;2020-11-02;AC

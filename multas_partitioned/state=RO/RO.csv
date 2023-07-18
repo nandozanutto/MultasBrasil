@@ -1,0 +1,39 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Maria Cecília Aragão;EBZ-8J32;84;Não binário;Campo de da Mata, 4;COSTA MARQUES;RO;2021-01-14;RO
+Sr. Lucas Gabriel Souza;GUQ-7I54;94;Homem;Largo Rezende, 70;NOVA BRASILÂNDIA D'OESTE;RO;2020-08-20;RO
+Nathan Dias;CYJ-6I90;59;Homem;Viela Pietro Almeida, 50;MONTE NEGRO;RO;2021-02-22;RO
+Natália Cunha;LEM-7F22;48;Não binário;Praia de Castro, 72;SERINGUEIRAS;RO;2022-08-09;RO
+Srta. Sarah Costela;KZX-0R31;44;Mulher;Estação de Rezende, 480;SERINGUEIRAS;RO;2020-02-04;RO
+Carolina Caldeira;NOK-9O78;8;Não binário;Via Bianca Rezende, 91;PRESIDENTE MÉDICI;RO;2022-09-28;RO
+Ana Laura Moura;XEB-9E53;63;Mulher;Feira Pires, 397;CACAULÂNDIA;RO;2022-05-22;RO
+Leonardo Monteiro;QNW-1U28;88;Homem;Fazenda Pedro Miguel Barros, 43;MACHADINHO D'OESTE;RO;2020-07-21;RO
+Alícia Lima;UUD-2F31;15;Mulher;Rodovia da Mata, 952;VILHENA;RO;2023-06-06;RO
+Sra. Alana Jesus;QRW-4W77;63;Não binário;Parque Porto, 49;ESPIGÃO D'OESTE;RO;2021-06-18;RO
+Amanda Novaes;JVT-8F28;8;Não binário;Estrada de Aragão, 797;PIMENTA BUENO;RO;2023-04-01;RO
+Sr. Enrico Cardoso;ROF-1Y40;25;Homem;Área Sales, 998;NOVA BRASILÂNDIA D'OESTE;RO;2020-08-16;RO
+Mariana Teixeira;XON-4Y54;11;Não binário;Esplanada Rodrigues, 73;CACAULÂNDIA;RO;2023-07-05;RO
+Stella Pires;TMP-7T05;24;Mulher;Aeroporto Cardoso, 2;MACHADINHO D'OESTE;RO;2020-04-09;RO
+Vitória Nogueira;KCY-7N86;73;Mulher;Residencial de Pereira, 588;NOVA BRASILÂNDIA D'OESTE;RO;2021-07-18;RO
+Joana Moura;SZT-1C17;29;Mulher;Viaduto Danilo Silveira, 3;CAMPO NOVO DE RONDÔNIA;RO;2020-04-09;RO
+Srta. Joana da Costa;YUT-9E22;38;Não binário;Alameda Kamilly Pinto, 66;MACHADINHO D'OESTE;RO;2023-02-22;RO
+Ana Júlia Fogaça;XYA-9Q89;76;Mulher;Lago de Aragão, 876;ESPIGÃO D'OESTE;RO;2023-07-01;RO
+Dr. Ryan Viana;KPY-4L28;50;Homem;Trecho Porto, 645;GUAJARÁ-MIRIM;RO;2020-06-22;RO
+Nina Silveira;PQT-9H50;45;Mulher;Setor de Castro, 2;SANTA LUZIA D'OESTE;RO;2021-12-24;RO
+Ana Laura Gonçalves;OYO-1R69;77;Não binário;Travessa Nunes, 56;MIRANTE DA SERRA;RO;2021-06-21;RO
+João Vitor Pinto;PVI-6L87;21;Homem;Fazenda de Costa, 79;URUPÁ;RO;2020-04-12;RO
+Nicole Novaes;SQV-8R62;43;Não binário;Passarela Catarina Novaes, 79;ALTO ALEGRE DOS PARECIS;RO;2022-01-11;RO
+Pietra Castro;IRC-3B94;30;Mulher;Rua Thiago Cardoso, 10;ROLIM DE MOURA;RO;2022-01-27;RO
+Sra. Raquel Nascimento;KGE-3T28;75;Mulher;Vila Clarice Nunes, 83;PRESIDENTE MÉDICI;RO;2023-02-18;RO
+Daniela Lima;EMR-6V89;45;Não binário;Campo Melissa da Cruz, 85;COLORADO DO OESTE;RO;2020-04-05;RO
+Maria Alice Almeida;GLK-8L54;6;Não binário;Alameda de Souza, 2;COSTA MARQUES;RO;2021-09-20;RO
+Dra. Maria Carvalho;YPT-1X88;56;Não binário;Viela Milena Melo, 84;PRESIDENTE MÉDICI;RO;2020-06-02;RO
+Emilly Costa;IOL-5R78;59;Mulher;Colônia Lorena Moraes, 4;ITAPUÃ DO OESTE;RO;2023-06-10;RO
+Beatriz Alves;MSU-1J35;47;Não binário;Rodovia Cardoso, 71;PRESIDENTE MÉDICI;RO;2022-07-07;RO
+Srta. Maria Clara Martins;OGZ-4W78;40;Mulher;Favela de Cardoso, 81;ARIQUEMES;RO;2020-12-06;RO
+João da Cunha;ODO-1E50;90;Homem;Recanto de Fogaça, 6;CUJUBIM;RO;2022-03-29;RO
+Luiz Otávio Monteiro;LJY-7P91;29;Homem;Ladeira da Rosa, 90;CHUPINGUAIA;RO;2022-07-13;RO
+Nicolas Pereira;MXV-4H61;75;Homem;Avenida de da Mota;URUPÁ;RO;2023-06-09;RO
+Maria Cecília da Paz;ELV-8X65;88;Mulher;Quadra Maitê Lopes, 20;GOVERNADOR JORGE TEIXEIRA;RO;2022-03-25;RO
+Letícia Pires;VRB-1X35;21;Não binário;Ladeira de da Costa, 345;MONTE NEGRO;RO;2023-07-04;RO
+Lavínia Porto;WET-9I80;28;Mulher;Lagoa de Oliveira, 25;JARU;RO;2023-03-18;RO
+Dra. Sabrina Fogaça;WII-3T44;96;Não binário;Lagoa Peixoto, 69;JI-PARANÁ;RO;2020-05-08;RO

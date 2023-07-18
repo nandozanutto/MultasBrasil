@@ -1,0 +1,33 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Stephany Aragão;JPS-8J32;2;Não binário;Favela Castro, 38;RIO DO ANTÔNIO;BA;2021-12-29;BA
+Mariane Nogueira;SNV-7E52;20;Mulher;Passarela Gomes, 21;DOM MACEDO COSTA;BA;2021-02-05;BA
+Clara Cunha;GXI-5X33;80;Não binário;Estrada Vitória Novaes, 45;ESPLANADA;BA;2020-03-03;BA
+Juliana Campos;SOA-8W38;54;Mulher;Vereda Vieira, 3;CATURAMA;BA;2020-02-06;BA
+Alexia Oliveira;PLO-1Q94;73;Não binário;Alameda Dias, 99;ANAGÉ;BA;2022-01-29;BA
+Sra. Lara Gonçalves;ILH-7K03;77;Não binário;Núcleo Vitor Monteiro, 65;IBOTIRAMA;BA;2020-09-26;BA
+Marcos Vinicius da Rocha;AUL-9P81;11;Homem;Via Maria Sophia Peixoto, 341;LAJEDO DO TABOCAL;BA;2020-06-16;BA
+Laís Souza;OPK-2B44;10;Não binário;Trevo de Ramos, 424;SÃO MIGUEL DAS MATAS;BA;2021-04-21;BA
+Ana Lívia Carvalho;IZL-4E78;71;Não binário;Rua Barros, 536;PAULO AFONSO;BA;2023-07-10;BA
+Luna da Mota;YRZ-4M64;65;Mulher;Vereda Julia Ferreira;PILÃO ARCADO;BA;2022-01-05;BA
+Marina da Mota;ZTX-6F06;21;Não binário;Residencial de Vieira, 36;QUIXABEIRA;BA;2021-12-14;BA
+Dr. Luigi da Mata;JLH-3E22;19;Homem;Trevo Pires, 35;BARREIRAS;BA;2020-10-22;BA
+Dra. Lívia Pires;XKT-2V83;50;Não binário;Residencial Silveira, 10;MORPARÁ;BA;2022-01-19;BA
+Elisa da Conceição;SSK-7B62;8;Não binário;Colônia de das Neves, 95;CRUZ DAS ALMAS;BA;2022-03-24;BA
+Sophie Aragão;PNE-0M33;25;Não binário;Aeroporto Martins, 6;PINTADAS;BA;2022-09-07;BA
+Rafael Fernandes;NXL-0K78;49;Homem;Lagoa Lima, 40;COTEGIPE;BA;2022-04-11;BA
+Enzo Duarte;DSJ-6J50;13;Homem;Vale da Mata, 4;PILÃO ARCADO;BA;2022-02-03;BA
+Dra. Emilly Sales;UWC-0Q25;16;Não binário;Recanto Ryan da Costa, 90;PRESIDENTE DUTRA;BA;2020-02-13;BA
+Lorena Gomes;DVL-2X53;3;Não binário;Pátio Elisa Farias, 10;MEDEIROS NETO;BA;2021-06-07;BA
+Maria Vitória da Rosa;HUY-8O47;87;Mulher;Setor Aragão, 85;VITÓRIA DA CONQUISTA;BA;2022-08-25;BA
+Srta. Sophia Pires;UYQ-8L43;6;Não binário;Estrada Henrique da Mata, 568;ABAÍRA;BA;2021-06-18;BA
+Sr. Heitor Freitas;HVU-5B27;72;Homem;Colônia de Melo;PLANALTO;BA;2021-01-12;BA
+Eduardo Souza;PBN-7R42;20;Homem;Estrada de Gomes, 8;MARCIONÍLIO SOUZA;BA;2021-07-24;BA
+Laís da Rosa;EJT-6P97;6;Não binário;Jardim das Neves, 856;SANTO AMARO;BA;2020-06-07;BA
+Ana Lívia Ramos;SUB-6O74;17;Não binário;Lago Caroline Barros, 15;EUNÁPOLIS;BA;2022-09-28;BA
+Bruna Teixeira;LAA-8T99;62;Mulher;Área de da Mata, 3;UMBURANAS;BA;2020-09-21;BA
+Luiz Henrique Barbosa;UOF-5C36;74;Homem;Sítio Marcelo Melo, 615;ITATIM;BA;2020-06-09;BA
+Beatriz da Paz;LMH-4D16;45;Mulher;Trevo de da Rosa;IBIASSUCÊ;BA;2021-05-12;BA
+Sophie Alves;AFF-8K55;14;Mulher;Viela Thomas Teixeira;NOVA VIÇOSA;BA;2022-07-09;BA
+Catarina Santos;NZU-3V28;56;Mulher;Sítio Novaes, 60;COARACI;BA;2022-10-25;BA
+Cauê Santos;AZQ-3U38;88;Homem;Rodovia de Ramos, 27;UMBURANAS;BA;2023-07-14;BA
+Ana Campos;TSJ-5D60;85;Mulher;Parque Larissa da Luz, 230;ELÍSIO MEDRADO;BA;2020-12-20;BA

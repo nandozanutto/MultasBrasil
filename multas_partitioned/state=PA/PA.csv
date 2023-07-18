@@ -1,0 +1,37 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Fernando Nogueira;PEO-1D26;51;Homem;Recanto de Fernandes, 1;NOVO REPARTIMENTO;PA;2020-09-30;PA
+Bruna Teixeira;EBL-8N48;69;Não binário;Trecho de Fernandes, 58;JACUNDÁ;PA;2022-03-02;PA
+Carlos Eduardo da Cruz;APC-3Q77;72;Homem;Sítio de Dias, 94;IRITUIA;PA;2023-04-17;PA
+Maitê Pires;BLR-6S34;80;Não binário;Viela de Oliveira, 85;NOVA ESPERANÇA DO PIRIÁ;PA;2023-05-15;PA
+Eloah Alves;WNZ-0I14;24;Mulher;Lago Rafaela da Mota, 223;GOIANÉSIA DO PARÁ;PA;2020-06-22;PA
+Brenda Cunha;RGG-8D43;13;Não binário;Jardim Arthur Ribeiro, 92;PORTEL;PA;2020-06-29;PA
+Bianca Souza;UHC-0A23;57;Não binário;Condomínio Emanuella Azevedo, 67;SÃO FRANCISCO DO PARÁ;PA;2023-05-19;PA
+Luiz Henrique Gonçalves;IAT-3J88;42;Homem;Praça Enrico Duarte, 503;TERRA ALTA;PA;2021-10-19;PA
+Natália Monteiro;MXK-9E76;9;Mulher;Loteamento Isabella Rocha, 14;MEDICILÂNDIA;PA;2021-08-14;PA
+Srta. Isabelly da Luz;DTM-3Z17;78;Mulher;Favela Jesus, 20;SÃO DOMINGOS DO ARAGUAIA;PA;2023-01-20;PA
+Levi Oliveira;TIE-8T40;48;Homem;Residencial Arthur Teixeira, 71;NOVA IPIXUNA;PA;2021-04-11;PA
+Stella Pires;RDP-0S37;14;Mulher;Conjunto Souza, 57;SÃO SEBASTIÃO DA BOA VISTA;PA;2021-01-30;PA
+Sra. Sophia Melo;QVC-0V73;4;Não binário;Alameda da Mata;IRITUIA;PA;2022-03-26;PA
+Brenda Moraes;BGH-7X93;67;Não binário;Estação Olivia Nunes, 50;ALMEIRIM;PA;2021-11-12;PA
+Sr. Luiz Miguel Moura;JSD-1W02;6;Homem;Loteamento Larissa Monteiro, 625;SÃO JOÃO DE PIRABAS;PA;2022-04-23;PA
+Gustavo Henrique Sales;RGK-3N74;83;Homem;Loteamento Ribeiro, 67;CAPITÃO POÇO;PA;2021-07-14;PA
+Maria Eduarda Oliveira;MFX-0O46;82;Não binário;Favela Vicente Ribeiro, 84;BENEVIDES;PA;2022-06-02;PA
+Vinicius da Costa;MEO-7Q37;49;Homem;Fazenda Silva, 60;ALTAMIRA;PA;2022-03-10;PA
+Nicole Novaes;WTI-9P68;85;Não binário;Área Luna Costa, 680;PEIXE-BOI;PA;2023-04-12;PA
+Lorena Pinto;HUO-9T69;48;Mulher;Vila Maria Vitória Lopes, 53;GARRAFÃO DO NORTE;PA;2021-05-25;PA
+Maria Alice Alves;HPU-4U77;58;Mulher;Parque de Moreira;SÃO FÉLIX DO XINGU;PA;2023-07-15;PA
+Letícia Gonçalves;LOW-9F95;7;Não binário;Estrada Jesus, 99;ORIXIMINÁ;PA;2023-07-16;PA
+Heloísa Melo;PGB-1A54;16;Não binário;Setor Viana, 7;CACHOEIRA DO PIRIÁ;PA;2020-02-01;PA
+Melissa Melo;OCL-2E24;14;Não binário;Núcleo Natália Cavalcanti, 15;VITÓRIA DO XINGU;PA;2022-12-13;PA
+Maria Clara Rodrigues;IBA-9F73;35;Não binário;Ladeira de Cardoso, 5;OURÉM;PA;2021-04-07;PA
+Maria Cecília Cunha;TAK-7U63;60;Não binário;Estrada Martins, 2;AUGUSTO CORRÊA;PA;2020-10-24;PA
+Valentina Pires;SIB-9V98;83;Mulher;Conjunto Pereira, 68;BOM JESUS DO TOCANTINS;PA;2023-06-09;PA
+Luana da Mota;TVS-4K01;42;Não binário;Favela Cardoso, 82;ANAPU;PA;2022-03-10;PA
+Nicole Cunha;QLM-7S10;29;Mulher;Via da Rosa, 7;SOURE;PA;2022-12-01;PA
+Gabriela Cavalcanti;SXU-1V42;32;Não binário;Sítio de Cunha, 34;OURILÂNDIA DO NORTE;PA;2021-05-19;PA
+Isabelly da Rosa;OVE-7X50;9;Não binário;Setor das Neves, 44;DOM ELISEU;PA;2020-06-07;PA
+Heloísa Ramos;KHL-4D77;43;Mulher;Lagoa de Alves, 76;BREJO GRANDE DO ARAGUAIA;PA;2021-03-31;PA
+Sr. Bruno da Conceição;FHR-3O12;10;Homem;Jardim Bárbara Ramos, 79;MONTE ALEGRE;PA;2021-04-07;PA
+Maysa Gonçalves;BTQ-4C52;17;Não binário;Ladeira da Mota, 489;PAU D'ARCO;PA;2023-02-04;PA
+Sabrina Martins;FDH-9I98;45;Mulher;Campo Vieira, 9;SANTA BÁRBARA DO PARÁ;PA;2020-05-09;PA
+João Pedro Oliveira;TQN-9H99;26;Homem;Parque Pires, 90;CASTANHAL;PA;2021-01-01;PA

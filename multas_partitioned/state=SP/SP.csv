@@ -1,0 +1,31 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Ana Beatriz Lima;UMF-0X64;6;Não binário;Rua de Moura, 99;SÃO SEBASTIÃO;SP;2023-01-17;SP
+Davi Santos;ICX-6O15;70;Homem;Esplanada de Rodrigues, 8;JARINU;SP;2021-01-20;SP
+Mariana Azevedo;UOZ-7O55;5;Mulher;Praça Diego da Cunha, 774;AREIÓPOLIS;SP;2021-06-29;SP
+Maria Vitória da Cruz;AQA-4R68;51;Não binário;Núcleo Rocha;CAMPOS DO JORDÃO;SP;2021-04-24;SP
+Carlos Eduardo Carvalho;SRJ-7R12;91;Homem;Via Isabelly Rezende, 10;MESÓPOLIS;SP;2022-04-25;SP
+Ana Carolina Gonçalves;TWM-2F49;82;Mulher;Colônia Cardoso, 436;MIRA ESTRELA;SP;2023-07-01;SP
+Giovanna Caldeira;HMI-8B03;89;Não binário;Setor Nogueira, 7;FRANCISCO MORATO;SP;2022-11-23;SP
+Mariana Mendes;YDP-5A90;90;Mulher;Alameda Cardoso, 38;GUARATINGUETÁ;SP;2020-12-16;SP
+Dra. Pietra da Costa;NLE-8C78;28;Não binário;Passarela Evelyn Ferreira, 25;SANTA LÚCIA;SP;2020-06-09;SP
+Dr. Antônio Novaes;KSO-6O12;2;Homem;Favela Larissa Farias, 11;ITÁPOLIS;SP;2020-03-03;SP
+Kevin Gomes;ESF-4U37;88;Homem;Residencial Barbosa, 376;OSCAR BRESSANE;SP;2023-01-26;SP
+Larissa da Rocha;IFE-8J29;98;Mulher;Rua de Barros, 180;SÃO VICENTE;SP;2022-03-07;SP
+Emanuel Nunes;TJR-5I40;40;Homem;Sítio Rezende;SALESÓPOLIS;SP;2023-06-16;SP
+Dra. Amanda Moura;MRP-8D83;58;Mulher;Pátio de Lima, 92;NOVA CASTILHO;SP;2022-04-11;SP
+Dra. Luiza Farias;IBL-4H25;47;Não binário;Estação Moreira, 41;VALPARAÍSO;SP;2022-10-22;SP
+Brenda Oliveira;ABN-5Q96;22;Mulher;Condomínio Joana Viana, 37;RANCHARIA;SP;2022-06-10;SP
+Sra. Maria da Conceição;RRK-0Q56;41;Não binário;Campo da Cruz;LUPÉRCIO;SP;2021-03-24;SP
+Theo Costela;JSO-7C10;53;Homem;Vila Alana Azevedo, 363;MAUÁ;SP;2021-02-13;SP
+Júlia da Mota;FAW-1G81;2;Não binário;Alameda Clara Pinto, 90;SALTO;SP;2020-07-07;SP
+Maria Cecília Cardoso;NYX-3Q57;23;Não binário;Trevo Yasmin Ferreira, 61;BERTIOGA;SP;2021-08-19;SP
+Luna Almeida;UJO-0L47;20;Não binário;Avenida Caroline Nunes;SALMOURÃO;SP;2020-05-31;SP
+Erick Peixoto;XHG-1C59;7;Homem;Lagoa da Cruz;NOVA ALIANÇA;SP;2021-06-30;SP
+Maria Luiza Barros;NGK-4E14;14;Não binário;Trevo Daniela Nascimento, 161;MONTE ALTO;SP;2023-01-26;SP
+Daniela Souza;XJW-4T66;47;Mulher;Lagoa Aragão;ASSIS;SP;2022-10-20;SP
+Srta. Ana Carolina Sales;JVA-8H69;37;Não binário;Praia Monteiro, 70;MURUTINGA DO SUL;SP;2020-05-20;SP
+Caroline Novaes;XYV-6B22;3;Não binário;Quadra Mendes, 20;AREIAS;SP;2022-11-18;SP
+Sophie Fogaça;TKG-9L73;51;Mulher;Vereda Novaes, 74;CAMPINAS;SP;2021-06-05;SP
+Laís da Mota;OYG-8C10;35;Mulher;Feira Sales;FLORÍNIA;SP;2021-02-17;SP
+Srta. Mariane Rodrigues;GZU-5O26;56;Mulher;Favela Nicolas Souza, 530;ITANHAÉM;SP;2023-04-12;SP
+Melissa Costa;DIZ-3G25;30;Não binário;Conjunto da Rocha, 6;SÃO JOÃO DO PAU D'ALHO;SP;2022-10-11;SP

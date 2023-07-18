@@ -1,0 +1,41 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Cecília da Luz;YFS-2A50;49;Mulher;Via de Moraes;SÃO JOSÉ DAS MISSÕES;RS;2020-07-27;RS
+Sra. Laura Silva;WVS-8U74;80;Não binário;Trecho de da Cunha, 804;ESPERANÇA DO SUL;RS;2022-02-21;RS
+Isaac Rocha;MHQ-3K41;26;Homem;Aeroporto Silveira, 87;ERECHIM;RS;2020-08-27;RS
+Dra. Isabella Rocha;KBK-8N59;36;Não binário;Trecho Peixoto;PONTE PRETA;RS;2022-09-02;RS
+Raquel da Rocha;TSD-2S53;78;Mulher;Parque Melo, 68;SALTO DO JACUÍ;RS;2023-06-16;RS
+Arthur Castro;HBY-5B12;21;Homem;Praça Marcelo da Mota, 247;CRUZEIRO DO SUL;RS;2020-09-10;RS
+Sra. Pietra Gomes;EGC-0R64;37;Não binário;Estação Oliveira, 31;EUGÊNIO DE CASTRO;RS;2020-08-29;RS
+Enzo Gabriel Campos;AYB-0N79;88;Homem;Campo de Ribeiro, 4;URUGUAIANA;RS;2021-02-24;RS
+Maria Fernanda Vieira;LIO-0Y61;85;Não binário;Vale de Caldeira, 807;VILA NOVA DO SUL;RS;2022-05-30;RS
+Ana Vitória Melo;OKT-4O09;31;Não binário;Estação Moreira, 85;NOVA PRATA;RS;2021-04-12;RS
+Maria Alice Souza;TPS-5E79;64;Não binário;Trecho Gabriela Costa, 76;CRISTAL;RS;2023-01-22;RS
+Ana Sophia Pinto;LVE-6W61;40;Não binário;Morro Barros;CAMPO BOM;RS;2020-06-21;RS
+João Miguel Ramos;TRB-0Y41;60;Homem;Distrito Bianca Oliveira, 477;BARÃO DO TRIUNFO;RS;2023-04-07;RS
+Brenda Porto;TWY-8Q75;14;Não binário;Área de Ribeiro;CRISSIUMAL;RS;2022-06-07;RS
+Marcela da Paz;JZN-4A33;14;Não binário;Residencial Carlos Eduardo Ribeiro, 251;CATUÍPE;RS;2020-03-06;RS
+Sra. Maria Vitória Lopes;QSN-6X70;84;Não binário;Rodovia de Teixeira, 32;UBIRETAMA;RS;2020-09-05;RS
+Isabella Almeida;XWH-0B13;53;Mulher;Jardim de Viana, 60;ARAMBARÉ;RS;2020-06-01;RS
+Cauê das Neves;ERC-3Q92;94;Homem;Morro de Vieira, 5;SAGRADA FAMÍLIA;RS;2022-02-02;RS
+Heitor Fernandes;ZEE-5X44;76;Homem;Sítio Castro, 88;WESTFALIA;RS;2022-10-09;RS
+Ana Julia Gonçalves;YNN-7G23;70;Não binário;Área Vicente Souza, 12;MONTENEGRO;RS;2021-11-13;RS
+Marcela Jesus;MBG-2Y01;59;Mulher;Distrito de Campos;FARROUPILHA;RS;2022-11-18;RS
+Giovanna Porto;CHD-3N22;71;Mulher;Pátio de Alves, 69;BOQUEIRÃO DO LEÃO;RS;2022-12-17;RS
+Renan Silva;BRB-2Y22;24;Homem;Colônia Cavalcanti, 17;SÃO JOSÉ DO NORTE;RS;2022-08-12;RS
+Isabella da Cunha;MXJ-8O00;75;Não binário;Colônia da Paz, 278;RESTINGA SECA;RS;2023-03-30;RS
+Daniel Sales;TWR-1C05;40;Homem;Recanto Alice da Rocha;VILA NOVA DO SUL;RS;2022-06-04;RS
+Maria Cecília Almeida;JNK-8D60;75;Mulher;Passarela de da Cunha, 603;SILVEIRA MARTINS;RS;2023-07-07;RS
+Beatriz Cavalcanti;JIU-6C74;37;Mulher;Avenida Lara Cardoso;LAGOA VERMELHA;RS;2022-02-11;RS
+Yasmin Porto;NFG-0Y38;29;Não binário;Jardim Nathan Caldeira, 13;SÉRIO;RS;2020-06-23;RS
+Dra. Clara Nascimento;BME-0I95;80;Mulher;Viaduto de Campos, 76;ERECHIM;RS;2021-11-22;RS
+Cauã Mendes;SKB-2L38;8;Homem;Vale de Rodrigues, 1;DOIS IRMÃOS;RS;2023-05-01;RS
+João Moreira;YIG-8K38;45;Homem;Loteamento Lucca Ramos, 2;AUGUSTO PESTANA;RS;2022-08-02;RS
+Maria Cecília Cardoso;SLB-1M97;42;Mulher;Via Heloísa Santos, 7;PORTO ALEGRE;RS;2021-08-01;RS
+Lorenzo Rezende;HYP-3D58;8;Homem;Vila de Souza, 93;PASSA SETE;RS;2020-10-08;RS
+João Gabriel Costa;UEW-0K72;49;Homem;Recanto Alexia Alves, 699;FELIZ;RS;2021-05-21;RS
+Eduarda Moura;NDP-8O71;56;Não binário;Viela Dias, 689;JAGUARI;RS;2022-11-23;RS
+Dra. Mariane Lima;LNF-8S83;9;Mulher;Recanto Lorena Gomes, 45;ARROIO DOS RATOS;RS;2022-06-06;RS
+Srta. Maria Sales;NIB-3D46;49;Mulher;Largo de Lima, 34;TABAÍ;RS;2022-12-01;RS
+Sr. Davi Luiz Fernandes;QFW-7C28;43;Homem;Fazenda Thales Correia, 45;SÃO VENDELINO;RS;2022-11-01;RS
+João Pedro Santos;CTD-3P68;100;Homem;Via de Farias, 19;DOIS IRMÃOS DAS MISSÕES;RS;2020-06-15;RS
+Anthony Rocha;KPZ-1V56;94;Homem;Quadra de Mendes;IVOTI;RS;2021-10-12;RS

@@ -1,0 +1,37 @@
+nome;placa;total_multas;genero;endereco;cidade;estado;ultima_multa;PARTITION
+Lorena Lopes;KDE-3P86;53;Mulher;Loteamento Nicole Azevedo, 5;CAROEBE;RR;2022-01-31;RR
+Maria Eduarda Carvalho;SBQ-6P98;36;Mulher;Rodovia Emanuella da Rocha, 91;SÃO JOÃO DA BALIZA;RR;2023-03-08;RR
+Letícia Jesus;WDX-1N47;81;Mulher;Conjunto de da Cunha, 48;SÃO LUIZ;RR;2022-07-11;RR
+Sofia Caldeira;ZEP-2Z36;65;Mulher;Esplanada Valentina Sales, 16;CARACARAÍ;RR;2020-09-28;RR
+Ana Sophia Ramos;JQN-0V17;14;Mulher;Trevo Emanuella Pinto, 82;CAROEBE;RR;2020-07-24;RR
+Rebeca Silveira;LMI-7M00;41;Mulher;Sítio Maria Clara Nogueira, 68;RORAINÓPOLIS;RR;2020-07-25;RR
+Maria Vitória Azevedo;AWI-7A01;42;Não binário;Residencial Gabriel Moreira, 69;UIRAMUTÃ;RR;2022-09-28;RR
+Júlia Pinto;ZLQ-6T81;5;Não binário;Distrito Joaquim Fernandes, 2;CANTÁ;RR;2021-12-08;RR
+Alana Pinto;MHB-8K72;95;Não binário;Favela de Costa, 85;NORMANDIA;RR;2021-01-14;RR
+Julia Gonçalves;ACX-9M31;70;Não binário;Praça Isaac Costela, 51;CANTÁ;RR;2023-05-05;RR
+Breno Correia;QUJ-1O82;47;Homem;Vereda Nascimento, 84;RORAINÓPOLIS;RR;2021-03-22;RR
+Dra. Sophie Pinto;USB-8U83;47;Mulher;Vale Maria Fernanda Cunha, 30;AMAJARI;RR;2022-07-06;RR
+Milena Nogueira;KUD-2Z39;88;Mulher;Recanto Isabelly da Paz, 29;NORMANDIA;RR;2020-12-11;RR
+Vinicius Freitas;NAM-0M61;43;Homem;Trecho de Silveira, 12;SÃO LUIZ;RR;2020-07-16;RR
+Maria Sophia Gomes;IBW-8N97;30;Não binário;Via Ribeiro, 5;CAROEBE;RR;2020-03-25;RR
+Enzo Gabriel Jesus;CMO-2V37;40;Homem;Praia Fogaça, 7;SÃO LUIZ;RR;2022-05-27;RR
+Dr. Igor Azevedo;ZXB-6T96;44;Homem;Condomínio Melo;NORMANDIA;RR;2021-02-01;RR
+Yasmin Azevedo;OOK-2V77;15;Não binário;Favela Raul Campos, 94;UIRAMUTÃ;RR;2022-06-07;RR
+Amanda Costela;XFD-5Q74;87;Mulher;Feira Moraes, 68;NORMANDIA;RR;2022-10-20;RR
+Dr. Arthur Castro;HWI-2J45;19;Homem;Recanto Heitor Jesus, 667;CANTÁ;RR;2022-07-22;RR
+Maysa Novaes;EHG-7E75;25;Mulher;Jardim Camila das Neves, 75;ALTO ALEGRE;RR;2023-05-17;RR
+Maria Cecília Dias;WIN-6Q58;60;Mulher;Setor Fogaça, 13;NORMANDIA;RR;2023-06-25;RR
+Clara Rocha;UHZ-7D82;60;Não binário;Estrada Alana Santos, 45;CAROEBE;RR;2021-06-04;RR
+Maria Eduarda Moreira;YAZ-6L88;99;Não binário;Área Eduardo Peixoto, 76;CANTÁ;RR;2021-04-20;RR
+Lucas Gabriel da Cruz;XZX-0I23;14;Homem;Passarela Duarte;UIRAMUTÃ;RR;2022-06-25;RR
+Luiz Henrique da Mota;RFF-8M18;55;Homem;Estação Alana Moraes, 56;NORMANDIA;RR;2022-07-08;RR
+Bryan Fogaça;XXP-1Y29;34;Homem;Parque Cauã Gomes, 23;NORMANDIA;RR;2022-03-07;RR
+Ana Carolina Aragão;DDH-5R43;35;Não binário;Distrito de Dias, 30;RORAINÓPOLIS;RR;2020-05-05;RR
+Dra. Nina da Rocha;RYA-4U81;51;Não binário;Núcleo de Monteiro, 27;ALTO ALEGRE;RR;2022-01-11;RR
+Maria Clara Costa;AHH-9Z01;12;Mulher;Pátio Farias, 37;AMAJARI;RR;2020-02-02;RR
+Sra. Rafaela Santos;QUL-7G82;92;Não binário;Fazenda da Conceição, 49;AMAJARI;RR;2021-08-02;RR
+Ana Sophia Nascimento;LCT-0F65;20;Mulher;Esplanada de Peixoto;CANTÁ;RR;2021-01-14;RR
+Benjamin Duarte;OHJ-1B19;9;Homem;Morro Ian Barros;AMAJARI;RR;2020-08-23;RR
+Camila Jesus;YPG-8P25;57;Não binário;Lago João Lucas Pereira, 14;MUCAJAÍ;RR;2022-02-01;RR
+Eduardo Moreira;ZWV-5Y06;21;Homem;Trecho de Azevedo, 5;ALTO ALEGRE;RR;2020-11-23;RR
+Luana Santos;EWU-3J30;69;Mulher;Chácara João Felipe Freitas, 863;MUCAJAÍ;RR;2021-03-11;RR
